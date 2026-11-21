@@ -145,12 +145,21 @@ redirect_from:
 
   <p class="ed-track">Other Employment</p>
   <div class="ed-venture">
-    <div class="ed-logo"><img src="{{ '/images/logos/jib.ico' | relative_url }}" alt="Japan International Broadcasting" loading="lazy"></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/jibtv-logo.svg' | relative_url }}" alt="Japan International Broadcasting" loading="lazy"></div>
     <div>
       <h3>TV Monitor</h3>
       <p class="ed-org">Japan International Broadcasting Inc. · 2019 — 24</p>
       <p class="ed-desc">Monitored TV programmes and provided constructive user feedback used to improve
       future productions.</p>
+    </div>
+  </div>
+  <div class="ed-venture">
+    <div class="ed-logo ed-logo--plain"><img src="{{ '/images/logos/nhk-world-japan-tv-logo.jpeg' | relative_url }}" alt="NHK World-Japan" loading="lazy"></div>
+    <div>
+      <h3>TV Monitor</h3>
+      <p class="ed-org">NHK World-Japan · Sep 2020 — May 2023</p>
+      <p class="ed-desc">Monitored NHK World-Japan broadcasts and provided constructive viewer feedback
+      used to improve future productions.</p>
     </div>
   </div>
 </section>
