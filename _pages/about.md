@@ -90,7 +90,7 @@ redirect_from:
   <div class="ed-venture">
     <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
-      <h3>Research Assistant — continuous-learning HCI</h3>
+      <h3>Research Assistant — User-centered AI Continuous Learning</h3>
       <p class="ed-org">Swansea University · UK · 2023</p>
       <p class="ed-desc">Part of the HCI team developing a continuous-learning environment for UK and
       international police forces, using a bespoke deep-learning NLP algorithm to identify and annotate
