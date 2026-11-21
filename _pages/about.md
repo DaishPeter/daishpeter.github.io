@@ -22,8 +22,27 @@ redirect_from:
   </div>
 </section>
 
+<section class="ed-section ed-wrap" id="skills">
+  <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Skills</h2></div>
+  <hr class="ed-section-rule">
+  <div class="ed-skills">
+    <div>
+      <h3>Research methods</h3>
+      <p class="ed-muted">HCI research methodologies · ESRC DTP social-research training · bias assessment and mitigation · human-centred evaluation of AI systems</p>
+    </div>
+    <div>
+      <h3>Technical</h3>
+      <p class="ed-muted">Multimodal LLMs (Gemini · GPT-4o · LLaVA · Ollama · vLLM) · multi-agent workflows · MLOps and front-end development · deep learning (CNNs) · NLP · Unity and Unreal Engine</p>
+    </div>
+    <div>
+      <h3>Domains</h3>
+      <p class="ed-muted">Ethical AI · GenAI agents · machine learning · AI-driven robotics · AI fairness · Human-AI and human-robot interaction</p>
+    </div>
+  </div>
+</section>
+
 <section class="ed-section ed-wrap" id="experience">
-  <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Experience</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">02</span><h2>Experience</h2></div>
   <hr class="ed-section-rule">
   <p class="ed-track">Academic &amp; Research</p>
   <div class="ed-venture">
@@ -140,7 +159,7 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="education">
-  <div class="ed-section-head"><span class="ed-section-num">02</span><h2>Education &amp; Fellowships</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education &amp; Fellowships</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-row">
     <div class="ed-date">2021 — 25</div>
@@ -196,7 +215,7 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="research">
-  <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Research</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">04</span><h2>Research</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-compact">
     <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making <span class="ed-chip">preprint</span></h3>
@@ -236,45 +255,64 @@ redirect_from:
   </div>
 </section>
 
-<section class="ed-section ed-wrap" id="skills">
-  <div class="ed-section-head"><span class="ed-section-num">04</span><h2>Skills</h2></div>
-  <hr class="ed-section-rule">
-  <div class="ed-skills">
-    <div>
-      <h3>Research methods</h3>
-      <p class="ed-muted">HCI research methodologies · ESRC DTP social-research training · bias assessment and mitigation · human-centred evaluation of AI systems</p>
-    </div>
-    <div>
-      <h3>Technical</h3>
-      <p class="ed-muted">Multimodal LLMs (Gemini · GPT-4o · LLaVA · Ollama · vLLM) · multi-agent workflows · MLOps and front-end development · deep learning (CNNs) · NLP · Unity and Unreal Engine</p>
-    </div>
-    <div>
-      <h3>Domains</h3>
-      <p class="ed-muted">Ethical AI · GenAI agents · machine learning · AI-driven robotics · AI fairness · Human-AI and human-robot interaction</p>
-    </div>
-  </div>
-</section>
-
 <section class="ed-section ed-wrap" id="service">
-  <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Academic Service</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Academic Services &amp; Volunteering Opportunities</h2></div>
   <hr class="ed-section-rule">
-  <div class="ed-row">
-    <div class="ed-date">2026</div>
-    <div>
-      <h3>ACM MUM — Area Chair · ACM IUI — Programme Committee · IEEE IROS — Reviewer · ACM CHI — Reviewer</h3>
-    </div>
+
+  <p class="ed-year">2026</p>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>ACM MUM — Area Chair</h3></div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2025</div>
-    <div>
-      <h3>ACM CHI — Reviewer · ACM FAccT — Reviewer</h3>
-    </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>ACM IUI — Programme Committee</h3></div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2024</div>
-    <div>
-      <h3>ACM HAI — Reviewer and Student Volunteer</h3>
-    </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>ACM CHI — Reviewer</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>IEEE IROS — Reviewer</h3></div>
+  </div>
+
+  <p class="ed-year">2025</p>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>ACM CHI — Reviewer</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>ACM FAccT — Reviewer</h3></div>
+  </div>
+
+  <p class="ed-year">2024</p>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>HAI — Reviewer</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>HAI — Student Volunteer</h3></div>
+  </div>
+
+  <p class="ed-year">2023</p>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>Swansea University Table Tennis Club — Safeguarding Officer</h3></div>
+  </div>
+
+  <p class="ed-year">2022</p>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>23Things International — POD Chair</h3></div>
+  </div>
+
+  <p class="ed-year">2015 — 17</p>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div><h3>Oxfam — Online Digital Sales Marketing Associate</h3></div>
   </div>
 </section>
 

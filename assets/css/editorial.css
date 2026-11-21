@@ -79,7 +79,7 @@ body.ed-body {
 }
 
 /* ---------- hero ---------- */
-.ed-hero { padding: 64px 0 0; }
+.ed-hero { padding-top: 64px; }
 .ed-eyebrow {
   font-family: var(--sans);
   font-weight: 600;
@@ -132,7 +132,7 @@ body.ed-body {
 .ed-link:hover { text-decoration: underline; }
 
 /* ---------- sections ---------- */
-.ed-section { padding: 72px 0 0; }
+.ed-section { padding-top: 72px; }
 .ed-section-head {
   display: flex;
   align-items: baseline;
@@ -373,6 +373,40 @@ body.ed-body {
   line-height: 1.55;
   color: var(--ink);
   margin: 2px 0;
+}
+
+/* ---------- year-grouped service & volunteering entries ---------- */
+.ed-year {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 18px;
+  color: var(--ink);
+  margin: 28px 0 12px;
+  padding-top: 14px;
+  border-top: 1px solid var(--hairline);
+}
+.ed-year:first-of-type { margin-top: 0; padding-top: 0; border-top: 0; }
+.ed-service {
+  display: grid;
+  grid-template-columns: 48px 1fr;
+  gap: 16px;
+  align-items: center;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  padding: 10px 16px;
+  margin: 0 0 8px;
+}
+.ed-service h3 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 15px;
+  margin: 0;
+}
+.ed-logo--sm { min-height: 48px; }
+.ed-logo--sm span { font-size: 7px; }
+@media (max-width: 560px) {
+  .ed-service { grid-template-columns: 40px 1fr; gap: 12px; }
+  .ed-logo--sm { min-height: 40px; }
 }
 @media (max-width: 560px) {
   .ed-venture, .ed-venture--lead { grid-template-columns: 72px 1fr; gap: 16px; padding: 16px; }
