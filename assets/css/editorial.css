@@ -354,8 +354,6 @@ body.ed-body {
   text-transform: uppercase;
   color: var(--accent);
 }
-/* awards carry a year in the tile where a role carries a mark */
-.ed-logo--year span { font-size: 15px; letter-spacing: 0.06em; }
 .ed-logo img {
   display: block;
   max-width: 100%;
@@ -450,5 +448,4 @@ body.ed-body {
   .ed-card, .ed-card--lead, .ed-venture, .ed-venture--lead { grid-template-columns: 72px 1fr; gap: 16px; padding: 16px; }
   .ed-logo, .ed-card--lead .ed-logo, .ed-venture--lead .ed-logo { min-height: 72px; }
   .ed-logo--sm { min-height: 44px; }
-  .ed-logo--year span { font-size: 12px; }
 }

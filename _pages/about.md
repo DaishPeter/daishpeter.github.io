@@ -203,38 +203,38 @@ redirect_from:
   <div class="ed-section-head"><span class="ed-section-num">04</span><h2>Awards</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-card">
-    <div class="ed-logo ed-logo--year"><span>2025</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/futureworlds.png' | relative_url }}" alt="Future Worlds" loading="lazy"></div>
     <div>
       <h3>FutureWorlds AI Accelerator Launchpad</h3>
-      <p class="ed-org">FutureWorlds · University of Southampton · Responsible AI UK</p>
+      <p class="ed-org">FutureWorlds · University of Southampton · Responsible AI UK · 2025</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-logo--year"><span>2025</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/kyoto.png' | relative_url }}" alt="Kyoto University" loading="lazy"></div>
     <div>
       <h3>JSPS Postdoctoral Fellowship</h3>
-      <p class="ed-org">Japan Society for the Promotion of Science · Kyoto University</p>
+      <p class="ed-org">Japan Society for the Promotion of Science · Kyoto University · 2025</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-logo--year"><span>2024</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/kaist.png' | relative_url }}" alt="KAIST" loading="lazy"></div>
     <div>
       <h3>KAIST Visiting Student Researcher Award</h3>
-      <p class="ed-org">Department of Industrial Design · KAIST</p>
+      <p class="ed-org">Department of Industrial Design · KAIST · 2024</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-logo--year"><span>2023</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/esrc-logo.png' | relative_url }}" alt="Economic and Social Research Council" loading="lazy"></div>
     <div>
       <h3>ESRC Overseas Institutional Visit (OIV) Scholarship</h3>
-      <p class="ed-org">Economic and Social Research Council</p>
+      <p class="ed-org">Economic and Social Research Council · 2023</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-logo--year"><span>2021</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/esrc-logo.png' | relative_url }}" alt="Economic and Social Research Council" loading="lazy"></div>
     <div>
       <h3>ESRC DTP 1+3 MSc and PhD Scholarship</h3>
-      <p class="ed-org">Economic and Social Research Council · Doctoral Training Partnership</p>
+      <p class="ed-org">Economic and Social Research Council · Doctoral Training Partnership · 2021</p>
     </div>
   </div>
 </section>
