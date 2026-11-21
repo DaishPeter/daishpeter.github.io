@@ -295,7 +295,7 @@ redirect_from:
     <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
     <div>
       <h3>Enhancing Fairness, Justice and Accuracy of Hybrid Human-AI Decisions by Shifting Epistemological Stances</h3>
-      <p class="ed-org">Short paper · HLDM &rsquo;23 · 2023 · <a href="https://sml.disi.unitn.it/files/hldm23/HLDM23_363.pdf">Read →</a></p>
+      <p class="ed-org">Poster presentation · HLDM &rsquo;23 · 2023 · <a href="http://web.archive.org/web/20240329123833/http://sml.disi.unitn.it/files/hldm23/HLDM23_363.pdf">Read →</a></p>
     </div>
   </div>
   <div class="ed-card">
@@ -369,6 +369,14 @@ redirect_from:
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/aisb-logo.png' | relative_url }}" alt="AISB" loading="lazy"></div>
     <div><h3>AISB 2023 — Attendee &amp; Presenter</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/ecml-pkdd-23-logo.png' | relative_url }}" alt="ECML PKDD 2023, Turin" loading="lazy"></div>
+    <div><h3>ECML-PKDD &rsquo;23 (Turin) — Attendee</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/ecml-pkdd-23-logo.png' | relative_url }}" alt="ECML PKDD 2023, Turin" loading="lazy"></div>
+    <div><h3>HLDM &rsquo;23 — Poster Presentation (workshop at ECML-PKDD)</h3></div>
   </div>
 
   <p class="ed-year">2022</p>
