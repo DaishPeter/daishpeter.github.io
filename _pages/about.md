@@ -19,20 +19,43 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="skills">
-  <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Skills</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Skills and Research Interests</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-skills">
     <div>
       <h3>Research methods</h3>
-      <p class="ed-muted">HCI research methodologies · ESRC DTP social-research training · bias assessment and mitigation · human-centred evaluation of AI systems</p>
+      <ul>
+        <li>Qualitative Research Methods</li>
+        <li>Quantitative Research Methods</li>
+        <li>Mixed Methods Research</li>
+        <li>Bias assessment and mitigation</li>
+        <li>User-centered design</li>
+        <li>Co-design</li>
+      </ul>
     </div>
     <div>
       <h3>Technical</h3>
-      <p class="ed-muted">Multimodal LLMs (Gemini · GPT-4o · LLaVA · Ollama · vLLM) · multi-agent workflows · MLOps and front-end development · deep learning (CNNs) · NLP · Unity and Unreal Engine</p>
+      <ul>
+        <li>Multimodal VLMs and LLMs</li>
+        <li>Single and Multi-Agent Workflows</li>
+        <li>MLOps</li>
+        <li>Full-stack development (bespoke software development)</li>
+        <li>Deep-learning</li>
+        <li>Unity and Unreal Engines</li>
+      </ul>
     </div>
     <div>
       <h3>Domains</h3>
-      <p class="ed-muted">Ethical AI · GenAI agents · machine learning · AI-driven robotics · AI fairness · Human-AI and human-robot interaction</p>
+      <ul>
+        <li>Ethical AI</li>
+        <li>AI Fairness</li>
+        <li>Human-AI Decision-Making</li>
+        <li>Human-AI Fairness</li>
+        <li>GenAI</li>
+        <li>ML &amp; DL</li>
+        <li>AI-driven Robotics</li>
+        <li>Human-AI &amp; Human-Robotic Interaction</li>
+      </ul>
     </div>
   </div>
 </section>

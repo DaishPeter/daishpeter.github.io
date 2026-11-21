@@ -221,6 +221,25 @@ body.ed-body {
 }
 .ed-skills p { font-size: 14px; color: var(--ink); margin: 0; }
 .ed-skills .ed-muted { color: var(--muted); }
+.ed-skills ul { margin: 0; padding: 0; list-style: none; }
+.ed-skills li {
+  position: relative;
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--ink);
+  padding-left: 14px;
+}
+.ed-skills li + li { margin-top: 5px; }
+.ed-skills li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.62em;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent);
+}
 
 /* publications */
 .ed-pub {
