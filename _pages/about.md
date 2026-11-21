@@ -165,7 +165,7 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="education">
-  <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education &amp; Training</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
@@ -174,20 +174,6 @@ redirect_from:
       <p class="ed-org">Swansea University · ESRC DTP (1+3) · 2021 — 25</p>
       <p class="ed-desc">Passed subject to minor corrections.</p>
       <span class="ed-honours">ESRC DTP fully funded</span>
-    </div>
-  </div>
-  <div class="ed-card">
-    <div class="ed-logo"><img src="{{ '/images/logos/kyoto.png' | relative_url }}" alt="Kyoto University" loading="lazy"></div>
-    <div>
-      <h3>JSPS Post-doctoral Research Fellow</h3>
-      <p class="ed-org">Kyoto University · Japan Society for the Promotion of Science · 2025</p>
-    </div>
-  </div>
-  <div class="ed-card">
-    <div class="ed-logo"><img src="{{ '/images/logos/kaist.png' | relative_url }}" alt="KAIST" loading="lazy"></div>
-    <div>
-      <h3>Visiting Student Researcher — DxD Lab, Department of Industrial Design</h3>
-      <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea · 2024</p>
     </div>
   </div>
   <div class="ed-card">
