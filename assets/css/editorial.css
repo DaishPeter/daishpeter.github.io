@@ -235,6 +235,8 @@ body.ed-body {
 .ed-pub .ed-date { font-weight: 500; font-size: 13px; color: var(--muted); padding-top: 4px; }
 .ed-pub h3 { font-family: var(--serif); font-weight: 600; font-size: 17px; margin: 0 0 4px; }
 .ed-pub .ed-venue { font-size: 13px; color: var(--muted); margin: 0; }
+.ed-venue a { color: var(--accent); text-decoration: none; }
+.ed-venue a:hover { text-decoration: underline; }
 .ed-chip {
   display: inline-block;
   background: var(--accent-soft);

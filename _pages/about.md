@@ -2,19 +2,19 @@
 layout: resume
 permalink: /
 title: "Resume"
-excerpt: "Peter Daish — Researcher in AI Fairness and Human-AI Interaction at Swansea University."
+excerpt: "Peter Daish — Human-AI Interaction researcher at Swansea University. PhD in Human-AI Interaction and Bias in AI; post-doctoral research assistant on the EU Horizon TANGO project."
 redirect_from: 
   - /about/
   - /about.html
 ---
 
 <section class="ed-hero ed-wrap" id="about">
-  <p class="ed-eyebrow">Doctoral Researcher — Swansea University</p>
+  <p class="ed-eyebrow">Human-AI Interaction Researcher — Swansea University</p>
   <h1>Research that keeps people in the&nbsp;loop.</h1>
-  <p class="ed-deck">Final-year Human-AI Interaction doctoral research candidate at Swansea University,
-  with research experience across world-leading labs in the UK, Japan and South Korea — working on
-  Ethical AI, GenAI agents, machine learning and LLM-driven robotics, with a human-centred approach
-  to identifying social biases.</p>
+  <p class="ed-deck">Peter Daish is a Human-AI Interaction researcher at Swansea University. He holds a
+  PhD in Human-AI Interaction and Bias in AI (ESRC DTP, 2021 — 2025) and has worked with world-leading
+  labs in the UK, Japan and South Korea on Ethical AI, GenAI agents, machine learning and AI-driven
+  robotics — currently as post-doctoral research assistant on the EU Horizon TANGO project.</p>
   <div class="ed-actions">
     <a class="ed-btn" href="{{ '/files/PeterDaishCV.pdf' | relative_url }}">Download CV (PDF) ↓</a>
     <a class="ed-link" href="{{ '/#contact' | relative_url }}">Get in touch →</a>
@@ -25,24 +25,111 @@ redirect_from:
   <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Experience</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-row">
-    <div class="ed-date">Present</div>
+    <div class="ed-date">2025 — now</div>
     <div>
-      <h3>Research Assistant — EU Horizon project TANGO</h3>
-      <p class="ed-org">Swansea University · UK</p>
+      <h3>Entrepreneur — FutureWorlds AI Accelerator</h3>
+      <p class="ed-org">University of Southampton · Responsible AI UK (RAI)</p>
       <ul>
-        <li>Designs, develops and integrates public-facing demonstrators showcasing cutting-edge
-        Explainable AI (XAI) technologies.</li>
-        <li>Research interests: AI fairness · Human-AI interaction · Human-robot interaction · social research.</li>
+        <li>Working towards commercialising my research on the responsible deployment of AI in
+        society, as part of the Responsible AI UK accelerator 2026 programme.</li>
       </ul>
     </div>
   </div>
   <div class="ed-row">
-    <div class="ed-date">2021 —</div>
+    <div class="ed-date">2025 — 27</div>
     <div>
-      <h3>Doctoral Research Candidate (PhD) — Human-AI Interaction and Bias in AI</h3>
-      <p class="ed-org">Swansea University · ESRC DTP (1+3)</p>
+      <h3>Post-Doctoral Research Assistant — EU Horizon project TANGO</h3>
+      <p class="ed-org">Swansea University · UK</p>
       <ul>
-        <li>Final-year candidate researching bias in AI through a human-centred, HCI-methods lens.</li>
+        <li>Lead development showcasing the latest Explainable AI innovations from researchers across
+        the EU, creating novel interactive experiences on the TANGO platform.</li>
+        <li>Work spans front-end development through to MLOps for prototyping and model management,
+        plus designing and managing user interaction with internal and external AI models and
+        service providers.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2025</div>
+    <div>
+      <h3>Postdoctoral Research Fellow — JSPS</h3>
+      <p class="ed-org">Kyoto University · Japan</p>
+      <ul>
+        <li>Investigated multimodal LLMs that enable robots to identify and respond to bias in
+        real-time human-human interactions.</li>
+        <li>Designed an Ethical-AI-inspired multi-agent workflow using online (OpenAI, Google Gemini)
+        and locally hosted (Ollama, vLLM) LLM agents for real-time bias detection and mitigation.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2025</div>
+    <div>
+      <h3>Research Assistant — bias in multimodal LLMs</h3>
+      <p class="ed-org">Swansea University · UK</p>
+      <ul>
+        <li>Deployed and evaluated multimodal LLMs across popular local and online models — Gemini,
+        GPT-4o and LLaVA — for the assessment of bias, informing the common pitfalls of guardrails
+        that are often fragile and can be bypassed inadvertently.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2024</div>
+    <div>
+      <h3>Visiting Student Researcher — DxD Lab, Department of Industrial Design</h3>
+      <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea</p>
+      <ul>
+        <li>Researched data-driven approaches to fairness and applied design-oriented thinking to the
+        development of novel Human-AI interactions, supervised by Professor Hong.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2023</div>
+    <div>
+      <h3>Research Assistant — continuous-learning HCI</h3>
+      <p class="ed-org">Swansea University · UK</p>
+      <ul>
+        <li>Part of the HCI team developing a continuous-learning environment for UK and international
+        police forces, using a bespoke deep-learning NLP algorithm to identify and annotate nefarious
+        conversations.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2022 — 25</div>
+    <div>
+      <h3>Teaching Assistant</h3>
+      <p class="ed-org">Swansea University · Department of Computer Science</p>
+      <ul>
+        <li>Demonstrated labs for modules including Algorithms, Declarative Programming, Abuses Biases
+        and Blessings of Data, Video Games Programming, Network and Security, Artificial Intelligence
+        and Blockchain.</li>
+        <li>Supported students in lab settings, graded assignments and developed new assessment
+        material.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2019 — 24</div>
+    <div>
+      <h3>TV Monitor</h3>
+      <p class="ed-org">Japan International Broadcasting Inc.</p>
+      <ul>
+        <li>Monitored TV programmes and provided constructive user feedback used to improve future
+        productions.</li>
+      </ul>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2015 — 20</div>
+    <div>
+      <h3>Developer — DaishGames (self-employed)</h3>
+      <p class="ed-org">Unity · Unreal Engine · Microsoft Visual Studio</p>
+      <ul>
+        <li>Designed and developed games featured on PlayStation Mobile, the Google Play Store, the
+        Amazon App Store and itch.io.</li>
       </ul>
     </div>
   </div>
@@ -51,6 +138,14 @@ redirect_from:
 <section class="ed-section ed-wrap" id="education">
   <div class="ed-section-head"><span class="ed-section-num">02</span><h2>Education &amp; Fellowships</h2></div>
   <hr class="ed-section-rule">
+  <div class="ed-row">
+    <div class="ed-date">2021 — 25</div>
+    <div>
+      <h3>PhD — Human-AI Interaction and Bias in AI</h3>
+      <p class="ed-org">Swansea University · ESRC DTP (1+3)</p>
+      <span class="ed-honours">ESRC DTP fully funded</span>
+    </div>
+  </div>
   <div class="ed-row">
     <div class="ed-date">2025</div>
     <div>
@@ -77,9 +172,7 @@ redirect_from:
     <div class="ed-date">2017 — 20</div>
     <div>
       <h3>BSc Software Engineering — First Class Honours</h3>
-      <p class="ed-org">Swansea University · Department of Computer Science</p>
-      <p>Thesis: <em>SmarTTband — adopting a data-driven approach to movement classification in table
-      tennis through Deep-CNNs</em>.</p>
+      <p class="ed-org">Swansea University</p>
       <span class="ed-honours">First Class Honours</span>
     </div>
   </div>
@@ -89,6 +182,30 @@ redirect_from:
   <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Research</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-compact">
+    <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making <span class="ed-chip">preprint</span></h3>
+    <p class="ed-venue">Full paper · 2025 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
+  </div>
+  <div class="ed-compact">
+    <h3>Towards Co-designing a Human-Agent Interface: A Case Study in Online Grooming Detection <span class="ed-chip">accepted</span></h3>
+    <p class="ed-venue">Short paper · 2024 · <a href="https://doi.org/10.1145/3687272.3690893">DOI →</a></p>
+  </div>
+  <div class="ed-compact">
+    <h3>Designing Bias Suppressing Robots for &lsquo;Fair&rsquo; Robot-Moderated Human-Human Interactions <span class="ed-chip">accepted</span></h3>
+    <p class="ed-venue">Short paper · 2024 · <a href="https://doi.org/10.1145/3687272.3690877">DOI →</a></p>
+  </div>
+  <div class="ed-compact">
+    <h3>Towards Co-Designing a Continuous-Learning Human-AI Interface: A Case Study in Online Grooming Detection <span class="ed-chip">accepted</span></h3>
+    <p class="ed-venue">Short paper · 2024 · <a href="https://hal.science/hal-04556796/document">Read →</a></p>
+  </div>
+  <div class="ed-compact">
+    <h3>Enhancing Fairness, Justice and Accuracy of Hybrid Human-AI Decisions by Shifting Epistemological Stances <span class="ed-chip">accepted</span></h3>
+    <p class="ed-venue">Short paper · 2023 · <a href="https://sml.disi.unitn.it/files/hldm23/HLDM23_363.pdf">Read →</a></p>
+  </div>
+  <div class="ed-compact">
+    <h3>Raising User Awareness of Bias-Leakage via Proxies in AI Models to Improve Fairness in Decision-Making <span class="ed-chip">accepted</span></h3>
+    <p class="ed-venue">Short paper · 2023 · <a href="https://aisb.org.uk/wp-content/uploads/2023/05/aisb2023.pdf">Read →</a></p>
+  </div>
+  <div class="ed-compact">
     <h3>Multi-Agent, LLM-Driven Social Robots to Reduce Bias <span class="ed-chip">in progress</span></h3>
     <p class="ed-venue">Full paper · working title · 2025</p>
   </div>
@@ -97,16 +214,8 @@ redirect_from:
     <p class="ed-venue">Full paper · working title · 2025</p>
   </div>
   <div class="ed-compact">
-    <h3>Personal Bias Visualisations <span class="ed-chip">in progress</span></h3>
+    <h3>Designing Personal Bias Visualisations <span class="ed-chip">in progress</span></h3>
     <p class="ed-venue">Full paper · working title · 2025</p>
-  </div>
-  <div class="ed-compact">
-    <h3>Fairness-based XAI for Human-AI Decision-Making <span class="ed-chip">in progress</span></h3>
-    <p class="ed-venue">Full paper · working title · 2025</p>
-  </div>
-  <div class="ed-compact">
-    <h3>SmarTTband: Adopting a Data-Driven Approach to Movement Classification in Table Tennis Through Deep-CNNs</h3>
-    <p class="ed-venue">Swansea University, Department of Computer Science · 2019 · Swansea, UK</p>
   </div>
 </section>
 
@@ -116,24 +225,46 @@ redirect_from:
   <div class="ed-skills">
     <div>
       <h3>Research methods</h3>
-      <p class="ed-muted">HCI research methodologies · ESRC DTP social-research training · human-centred evaluation of AI systems</p>
+      <p class="ed-muted">HCI research methodologies · ESRC DTP social-research training · bias assessment and mitigation · human-centred evaluation of AI systems</p>
     </div>
     <div>
       <h3>Technical</h3>
-      <p class="ed-muted">GenAI agents · LLM-driven robotics · Explainable AI (XAI) · deep learning (CNNs) · software engineering</p>
+      <p class="ed-muted">Multimodal LLMs (Gemini · GPT-4o · LLaVA · Ollama · vLLM) · multi-agent workflows · MLOps and front-end development · deep learning (CNNs) · NLP · Unity and Unreal Engine</p>
     </div>
     <div>
       <h3>Domains</h3>
-      <p class="ed-muted">Ethical AI · AI fairness · Human-AI interaction · Human-robot interaction · bias in decision-making</p>
+      <p class="ed-muted">Ethical AI · GenAI agents · machine learning · AI-driven robotics · AI fairness · Human-AI and human-robot interaction</p>
+    </div>
+  </div>
+</section>
+
+<section class="ed-section ed-wrap" id="service">
+  <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Academic Service</h2></div>
+  <hr class="ed-section-rule">
+  <div class="ed-row">
+    <div class="ed-date">2026</div>
+    <div>
+      <h3>ACM MUM — Area Chair · ACM IUI — Programme Committee · IEEE IROS — Reviewer · ACM CHI — Reviewer</h3>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2025</div>
+    <div>
+      <h3>ACM CHI — Reviewer · ACM FAccT — Reviewer</h3>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">2024</div>
+    <div>
+      <h3>ACM HAI — Reviewer and Student Volunteer</h3>
     </div>
   </div>
 </section>
 
 <section class="ed-section ed-wrap" id="contact">
-  <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Contact</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">06</span><h2>Contact</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-contact-grid">
-    <a href="mailto:peterdaish16@gmail.com">Email<span>peterdaish16@gmail.com</span></a>
     <a href="https://www.linkedin.com/in/peter-daish/">LinkedIn<span>linkedin.com/in/peter-daish</span></a>
     <a href="https://github.com/{{ site.author.github }}">GitHub<span>github.com/{{ site.author.github }}</span></a>
     <a href="{{ site.author.orcid }}">ORCID<span>{{ site.author.orcid | remove: 'https://orcid.org/' }}</span></a>
