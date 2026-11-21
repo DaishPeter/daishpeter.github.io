@@ -255,7 +255,7 @@ redirect_from:
     <div>
       <span class="ed-badge ed-badge--preprint">Preprint</span>
       <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making</h3>
-      <p class="ed-org">Full paper · arXiv · 2025 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
+      <p class="ed-org">Full paper · arXiv · 2026 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
     </div>
   </div>
   <div class="ed-card">
