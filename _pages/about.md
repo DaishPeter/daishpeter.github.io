@@ -342,8 +342,22 @@ redirect_from:
   </div>
 </section>
 
+<section class="ed-section ed-wrap" id="collaborations">
+  <div class="ed-section-head"><span class="ed-section-num">06</span><h2>Collaborations</h2></div>
+  <hr class="ed-section-rule">
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--plain"><img src="{{ '/images/logos/hhai-2026-logo.png' | relative_url }}" alt="HHAI 2026" loading="lazy"></div>
+    <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
+      <h3>When AI Solves the Wrong Problems: Sociotechnical Dissociation in Designing Human-AI Combination</h3>
+      <p class="ed-org">Full paper · HHAI 2026 · pp. 221–230 · 2026 · <a href="https://doi.org/10.3233/FAIA260507">DOI →</a></p>
+      <p class="ed-desc">Co-authored with Tommaso Turchi, Ben Wilson, Matt Roach and Alan Dix.</p>
+    </div>
+  </div>
+</section>
+
 <section class="ed-section ed-wrap" id="service">
-  <div class="ed-section-head"><span class="ed-section-num">06</span><h2>Academic Services &amp; Volunteering Opportunities</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">07</span><h2>Academic Services &amp; Volunteering Opportunities</h2></div>
   <hr class="ed-section-rule">
 
   <p class="ed-year">2026</p>
@@ -428,7 +442,7 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="contact">
-  <div class="ed-section-head"><span class="ed-section-num">07</span><h2>Contact</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">08</span><h2>Contact</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-contact-grid">
     <a href="https://www.linkedin.com/in/peter-daish/">LinkedIn<span>linkedin.com/in/peter-daish</span></a>
