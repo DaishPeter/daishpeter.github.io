@@ -42,7 +42,7 @@ redirect_from:
   <hr class="ed-section-rule">
   <p class="ed-track">Academic &amp; Research</p>
   <div class="ed-venture">
-    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/tango-logo.png' | relative_url }}" alt="TANGO" loading="lazy"></div>
     <div>
       <h3>Post-Doctoral Research Assistant — EU Horizon project TANGO</h3>
       <p class="ed-org">Swansea University · UK · 2025 — 27</p>
@@ -267,11 +267,19 @@ redirect_from:
   </div>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/chi-26-logo.png' | relative_url }}" alt="CHI 2026" loading="lazy"></div>
-    <div><h3>ACM CHI — Reviewer</h3></div>
+    <div><h3>ACM CHI 2026 — Reviewer &amp; Attendee</h3></div>
   </div>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/iros-26-logo.png' | relative_url }}" alt="IROS 2026" loading="lazy"></div>
     <div><h3>IEEE IROS — Reviewer</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/avi-26-logo.png' | relative_url }}" alt="AVI 2026" loading="lazy"></div>
+    <div><h3>AVI 2026 — Attendee</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/avi-26-logo.png' | relative_url }}" alt="AVI 2026" loading="lazy"></div>
+    <div><h3>Synergy 2026 — Contributor (workshop hosted at AVI)</h3></div>
   </div>
 
   <p class="ed-year">2025</p>
@@ -293,11 +301,19 @@ redirect_from:
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
     <div><h3>HAI — Student Volunteer</h3></div>
   </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/facct-24-logo.png' | relative_url }}" alt="FAccT 2024" loading="lazy"></div>
+    <div><h3>ACM FAccT 2024 — Attendee</h3></div>
+  </div>
 
   <p class="ed-year">2023</p>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div><h3>Swansea University Table Tennis Club — Safeguarding Officer</h3></div>
+  </div>
+  <div class="ed-service">
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/aisb-logo.png' | relative_url }}" alt="AISB" loading="lazy"></div>
+    <div><h3>AISB 2023 — Attendee &amp; Presenter</h3></div>
   </div>
 
   <p class="ed-year">2022</p>
