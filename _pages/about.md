@@ -25,19 +25,7 @@ redirect_from:
 <section class="ed-section ed-wrap" id="experience">
   <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Experience</h2></div>
   <hr class="ed-section-rule">
-  <div class="ed-row">
-    <div class="ed-date">2025 — now</div>
-    <div>
-      <h3>Founder — GlobebaseAI</h3>
-      <p class="ed-org">FutureWorlds AI Accelerator · University of Southampton · Responsible AI UK (RAI)</p>
-      <ul>
-        <li>Participated in the Southampton University and FutureWorlds Responsible AI UK (RAI) AI
-        Accelerator 2026 programme as founder of GlobebaseAI.</li>
-        <li>Commercialising my research on the responsible deployment of AI in society, and designing
-        AI-infused technologies that promote productivity and fairness in real-world settings.</li>
-      </ul>
-    </div>
-  </div>
+  <p class="ed-track">Academic &amp; Research</p>
   <div class="ed-row">
     <div class="ed-date">2025 — 27</div>
     <div>
@@ -114,6 +102,38 @@ redirect_from:
       </ul>
     </div>
   </div>
+
+  <p class="ed-track">Independent Business Ventures</p>
+  <div class="ed-venture ed-venture--lead">
+    <div class="ed-logo"><span>LOGO</span></div>
+    <div>
+      <h3>Founder — GlobebaseAI</h3>
+      <p class="ed-org">FutureWorlds AI Accelerator · University of Southampton · Responsible AI UK (RAI) · 2025 — now</p>
+      <p class="ed-desc">Participated in the Southampton University and FutureWorlds Responsible AI UK (RAI)
+      AI Accelerator 2026 programme. Commercialising my research on the responsible deployment of AI in
+      society, and designing AI-infused technologies that promote productivity and fairness in real-world
+      settings.</p>
+    </div>
+  </div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
+    <div>
+      <h3>Developer — DaishGames</h3>
+      <p class="ed-org">Self-employed · Unity · Unreal Engine · Microsoft Visual Studio · 2015 — 20</p>
+      <p class="ed-desc">Designed and developed games featured on PlayStation Mobile, the Google Play
+      Store, the Amazon App Store and itch.io.</p>
+    </div>
+  </div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
+    <div>
+      <h3>Web3.0 Security</h3>
+      <p class="ed-org">Dates to be confirmed</p>
+      <p class="ed-desc">[Role description to be added.]</p>
+    </div>
+  </div>
+
+  <p class="ed-track">Other Employment</p>
   <div class="ed-row">
     <div class="ed-date">2019 — 24</div>
     <div>
@@ -122,17 +142,6 @@ redirect_from:
       <ul>
         <li>Monitored TV programmes and provided constructive user feedback used to improve future
         productions.</li>
-      </ul>
-    </div>
-  </div>
-  <div class="ed-row">
-    <div class="ed-date">2015 — 20</div>
-    <div>
-      <h3>Developer — DaishGames (self-employed)</h3>
-      <p class="ed-org">Unity · Unreal Engine · Microsoft Visual Studio</p>
-      <ul>
-        <li>Designed and developed games featured on PlayStation Mobile, the Google Play Store, the
-        Amazon App Store and itch.io.</li>
       </ul>
     </div>
   </div>

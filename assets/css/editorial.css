@@ -305,3 +305,68 @@ body.ed-body {
   .ed-section { padding-top: 28px; page-break-inside: avoid; }
   a { color: var(--ink) !important; text-decoration: none; }
 }
+
+/* ---------- experience tracks & venture cards ---------- */
+.ed-track {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+  margin: 48px 0 16px;
+}
+.ed-track:first-of-type { margin-top: 8px; }
+.ed-venture {
+  display: grid;
+  grid-template-columns: 96px 1fr;
+  gap: 24px;
+  background: var(--surface);
+  border: 1px solid var(--hairline);
+  padding: 24px;
+  margin: 0 0 16px;
+}
+.ed-venture--lead {
+  grid-template-columns: 120px 1fr;
+  border-top: 3px solid var(--accent);
+  padding: 28px;
+}
+.ed-logo {
+  background: var(--accent-soft);
+  min-height: 96px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ed-venture--lead .ed-logo { min-height: 120px; }
+.ed-logo span {
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 9px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+.ed-venture h3 {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 18px;
+  margin: 0 0 4px;
+}
+.ed-venture .ed-org {
+  font-family: var(--sans);
+  font-size: 13px;
+  color: var(--muted);
+  margin: 0 0 10px;
+}
+.ed-venture .ed-desc {
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink);
+  margin: 0;
+}
+@media (max-width: 560px) {
+  .ed-venture, .ed-venture--lead { grid-template-columns: 72px 1fr; gap: 16px; padding: 16px; }
+  .ed-logo, .ed-venture--lead .ed-logo { min-height: 72px; }
+}
