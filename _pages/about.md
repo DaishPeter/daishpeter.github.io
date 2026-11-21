@@ -156,69 +156,91 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="education">
-  <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education &amp; Fellowships</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education &amp; Training</h2></div>
   <hr class="ed-section-rule">
-  <div class="ed-row ed-row--logo">
-    <div class="ed-date">2021 — 25</div>
+  <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>PhD — Human-AI Interaction and Bias in AI</h3>
-      <p class="ed-org">Swansea University · ESRC DTP (1+3)</p>
+      <p class="ed-org">Swansea University · ESRC DTP (1+3) · 2021 — 25</p>
+      <p class="ed-desc">Passed subject to minor corrections.</p>
       <span class="ed-honours">ESRC DTP fully funded</span>
     </div>
   </div>
-  <div class="ed-row ed-row--logo">
-    <div class="ed-date">2025</div>
+  <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/kyoto.png' | relative_url }}" alt="Kyoto University" loading="lazy"></div>
     <div>
       <h3>JSPS Post-doctoral Research Fellow</h3>
-      <p class="ed-org">Kyoto University · Japan Society for the Promotion of Science</p>
+      <p class="ed-org">Kyoto University · Japan Society for the Promotion of Science · 2025</p>
     </div>
   </div>
-  <div class="ed-row ed-row--logo">
-    <div class="ed-date">2024</div>
+  <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/kaist.png' | relative_url }}" alt="KAIST" loading="lazy"></div>
     <div>
       <h3>Visiting Student Researcher — DxD Lab, Department of Industrial Design</h3>
-      <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea</p>
+      <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea · 2024</p>
     </div>
   </div>
-  <div class="ed-row ed-row--logo">
-    <div class="ed-date">2020 — 21</div>
+  <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>MSc Social Research Methods — Distinction</h3>
-      <p class="ed-org">Swansea University</p>
+      <p class="ed-org">Swansea University · 2020 — 21</p>
       <span class="ed-honours">Distinction</span>
     </div>
   </div>
-  <div class="ed-row ed-row--logo">
-    <div class="ed-date">2017 — 20</div>
+  <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>BSc Software Engineering — First Class Honours</h3>
-      <p class="ed-org">Swansea University</p>
+      <p class="ed-org">Swansea University · 2017 — 20</p>
       <span class="ed-honours">First Class Honours</span>
     </div>
   </div>
-  <div class="ed-row ed-row--logo">
-    <div class="ed-date">Awards</div>
-    <div></div>
+</section>
+
+<section class="ed-section ed-wrap" id="awards">
+  <div class="ed-section-head"><span class="ed-section-num">04</span><h2>Awards</h2></div>
+  <hr class="ed-section-rule">
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--year"><span>2025</span></div>
     <div>
-      <h3>Grants &amp; scholarships</h3>
-      <ul>
-        <li>2025 — FutureWorlds AI Accelerator Launchpad</li>
-        <li>2025 — JSPS Postdoctoral Fellowship, Kyoto University</li>
-        <li>2024 — KAIST Visiting Student Researcher, Department of Industrial Design</li>
-        <li>2023 — ESRC Overseas Institutional Visit (OIV) scholarship</li>
-        <li>2021 — ESRC DTP fully funded 1+3 MSc and PhD scholarship</li>
-      </ul>
+      <h3>FutureWorlds AI Accelerator Launchpad</h3>
+      <p class="ed-org">FutureWorlds · University of Southampton · Responsible AI UK</p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--year"><span>2025</span></div>
+    <div>
+      <h3>JSPS Postdoctoral Fellowship</h3>
+      <p class="ed-org">Japan Society for the Promotion of Science · Kyoto University</p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--year"><span>2024</span></div>
+    <div>
+      <h3>KAIST Visiting Student Researcher Award</h3>
+      <p class="ed-org">Department of Industrial Design · KAIST</p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--year"><span>2023</span></div>
+    <div>
+      <h3>ESRC Overseas Institutional Visit (OIV) Scholarship</h3>
+      <p class="ed-org">Economic and Social Research Council</p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--year"><span>2021</span></div>
+    <div>
+      <h3>ESRC DTP 1+3 MSc and PhD Scholarship</h3>
+      <p class="ed-org">Economic and Social Research Council · Doctoral Training Partnership</p>
     </div>
   </div>
 </section>
 
 <section class="ed-section ed-wrap" id="research">
-  <div class="ed-section-head"><span class="ed-section-num">04</span><h2>Research</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Research</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-compact">
     <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making <span class="ed-chip">preprint</span></h3>
@@ -259,7 +281,7 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="service">
-  <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Academic Services &amp; Volunteering Opportunities</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">06</span><h2>Academic Services &amp; Volunteering Opportunities</h2></div>
   <hr class="ed-section-rule">
 
   <p class="ed-year">2026</p>
@@ -336,7 +358,7 @@ redirect_from:
 </section>
 
 <section class="ed-section ed-wrap" id="contact">
-  <div class="ed-section-head"><span class="ed-section-num">06</span><h2>Contact</h2></div>
+  <div class="ed-section-head"><span class="ed-section-num">07</span><h2>Contact</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-contact-grid">
     <a href="https://www.linkedin.com/in/peter-daish/">LinkedIn<span>linkedin.com/in/peter-daish</span></a>
