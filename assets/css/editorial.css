@@ -358,41 +358,50 @@ body.ed-body {
   padding: 14px;
   box-sizing: border-box;
 }
-/* ---------- research: publication status tiles ----------
-   The tile says where an output stands, so a reader can separate what is out
-   from what is still coming without reading a word of the title:
-   solid rust = accepted, soft tint = public preprint, dashed = not yet written. */
-.ed-status {
-  color: var(--accent);
-  flex-direction: column;
-  padding: 12px 8px;
-  text-align: center;
+/* ---------- research: publication status badge ----------
+   The tile holds the venue mark; the output's standing rides in the top right
+   corner of the card. Floating it lets a long title wrap around the badge
+   instead of running underneath it, so no line has to be padded away. */
+.ed-badge {
+  float: right;
+  display: inline-flex;
+  align-items: center;
+  gap: 7px;
+  margin: 1px 0 10px 18px;
+  padding: 5px 13px;
   border: 1px solid transparent;
+  border-radius: 999px;
+  font-family: var(--sans);
+  font-weight: 600;
+  font-size: 10px;
+  line-height: 1.4;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--accent);
+  white-space: nowrap;
 }
-.ed-status::before {
+.ed-badge::before {
   content: "";
-  display: block;
-  width: 7px;
-  height: 7px;
-  margin: 0 auto 9px;
+  flex: none;
+  width: 6px;
+  height: 6px;
   border-radius: 50%;
   background: currentColor;
 }
-.ed-status span {
-  color: inherit;
-  font-size: 9px;
-  line-height: 1.3;
-  letter-spacing: 0.12em;
-}
-.ed-status--accepted {
-  color: #fff;
+.ed-badge--accepted {
   background: var(--accent);
   border-color: var(--accent);
+  color: #fff;
 }
-.ed-status--pending {
-  color: var(--muted);
+.ed-badge--preprint {
+  background: var(--accent-soft);
+  border-color: var(--accent-soft);
+  color: var(--accent);
+}
+.ed-badge--pending {
   background: transparent;
   border: 1px dashed var(--muted);
+  color: var(--muted);
 }
 .ed-card h3,
 .ed-venture h3 {
@@ -478,4 +487,6 @@ body.ed-body {
   .ed-card, .ed-card--lead, .ed-venture, .ed-venture--lead { grid-template-columns: 72px 1fr; gap: 16px; padding: 16px; }
   .ed-logo, .ed-card--lead .ed-logo, .ed-venture--lead .ed-logo { min-height: 72px; }
   .ed-logo--sm { min-height: 44px; }
+  /* a floated badge starves the title of width on a phone, so it takes its own line */
+  .ed-badge { float: none; display: inline-flex; margin: 0 0 8px; }
 }

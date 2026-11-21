@@ -243,64 +243,81 @@ redirect_from:
   <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Research</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-card">
-    <div class="ed-logo ed-status"><span>Preprint</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/interact-25-logo.png' | relative_url }}" alt="INTERACT 2025" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
+      <h3>Co-design of an Interactive AI Platform for Tactics-Based Detection of Online Grooming</h3>
+      <p class="ed-org">Full paper · INTERACT 2025 · Springer LNCS 16111 · 2026 · <a href="https://doi.org/10.1007/978-3-032-05008-3_36">DOI →</a></p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo"><img src="{{ '/images/logos/arxiv-logo.svg' | relative_url }}" alt="arXiv" loading="lazy"></div>
+    <div>
+      <span class="ed-badge ed-badge--preprint">Preprint</span>
       <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making</h3>
       <p class="ed-org">Full paper · arXiv · 2025 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--pending"><span>Pending</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/manuscript.svg' | relative_url }}" alt="Manuscript in preparation" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--pending">Pending</span>
       <h3>Multi-Agent, LLM-Driven Social Robots to Reduce Bias</h3>
       <p class="ed-org">Full paper · working title · 2025</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--pending"><span>Pending</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/manuscript.svg' | relative_url }}" alt="Manuscript in preparation" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--pending">Pending</span>
       <h3>Exploring Personal Biases via Human-LLM Interactions</h3>
       <p class="ed-org">Full paper · working title · 2025</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--pending"><span>Pending</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/manuscript.svg' | relative_url }}" alt="Manuscript in preparation" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--pending">Pending</span>
       <h3>Designing Personal Bias Visualisations</h3>
       <p class="ed-org">Full paper · working title · 2025</p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>Towards Co-designing a Human-Agent Interface: A Case Study in Online Grooming Detection</h3>
       <p class="ed-org">Short paper · HAI &rsquo;24 · 2024 · <a href="https://doi.org/10.1145/3687272.3690893">DOI →</a></p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>Designing Bias Suppressing Robots for &lsquo;Fair&rsquo; Robot-Moderated Human-Human Interactions</h3>
       <p class="ed-org">Short paper · HAI &rsquo;24 · 2024 · <a href="https://doi.org/10.1145/3687272.3690877">DOI →</a></p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/synergy-logo.png' | relative_url }}" alt="SYNERGY workshop" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>Towards Co-Designing a Continuous-Learning Human-AI Interface: A Case Study in Online Grooming Detection</h3>
       <p class="ed-org">Short paper · SYNERGY workshop at AVI &rsquo;24 · 2024 · <a href="https://hal.science/hal-04556796/document">Read →</a></p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/ecml-pkdd-23-logo.png' | relative_url }}" alt="HLDM 2023 at ECML PKDD" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>Enhancing Fairness, Justice and Accuracy of Hybrid Human-AI Decisions by Shifting Epistemological Stances</h3>
       <p class="ed-org">Poster presentation · HLDM &rsquo;23 · 2023 · <a href="http://web.archive.org/web/20240329123833/http://sml.disi.unitn.it/files/hldm23/HLDM23_363.pdf">Read →</a></p>
     </div>
   </div>
   <div class="ed-card">
-    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/aisb-logo.png' | relative_url }}" alt="AISB" loading="lazy"></div>
     <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>Raising User Awareness of Bias-Leakage via Proxies in AI Models to Improve Fairness in Decision-Making</h3>
       <p class="ed-org">Short paper · AISB &rsquo;23 · 2023 · <a href="https://aisb.org.uk/wp-content/uploads/2023/05/aisb2023.pdf">Read →</a></p>
     </div>
