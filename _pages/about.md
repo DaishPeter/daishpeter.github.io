@@ -242,41 +242,68 @@ redirect_from:
 <section class="ed-section ed-wrap" id="research">
   <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Research</h2></div>
   <hr class="ed-section-rule">
-  <div class="ed-compact">
-    <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making <span class="ed-chip">preprint</span></h3>
-    <p class="ed-venue">Full paper · 2025 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status"><span>Preprint</span></div>
+    <div>
+      <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making</h3>
+      <p class="ed-org">Full paper · arXiv · 2025 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Towards Co-designing a Human-Agent Interface: A Case Study in Online Grooming Detection <span class="ed-chip">accepted</span></h3>
-    <p class="ed-venue">Short paper · 2024 · <a href="https://doi.org/10.1145/3687272.3690893">DOI →</a></p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--pending"><span>Pending</span></div>
+    <div>
+      <h3>Multi-Agent, LLM-Driven Social Robots to Reduce Bias</h3>
+      <p class="ed-org">Full paper · working title · 2025</p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Designing Bias Suppressing Robots for &lsquo;Fair&rsquo; Robot-Moderated Human-Human Interactions <span class="ed-chip">accepted</span></h3>
-    <p class="ed-venue">Short paper · 2024 · <a href="https://doi.org/10.1145/3687272.3690877">DOI →</a></p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--pending"><span>Pending</span></div>
+    <div>
+      <h3>Exploring Personal Biases via Human-LLM Interactions</h3>
+      <p class="ed-org">Full paper · working title · 2025</p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Towards Co-Designing a Continuous-Learning Human-AI Interface: A Case Study in Online Grooming Detection <span class="ed-chip">accepted</span></h3>
-    <p class="ed-venue">Short paper · 2024 · <a href="https://hal.science/hal-04556796/document">Read →</a></p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--pending"><span>Pending</span></div>
+    <div>
+      <h3>Designing Personal Bias Visualisations</h3>
+      <p class="ed-org">Full paper · working title · 2025</p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Enhancing Fairness, Justice and Accuracy of Hybrid Human-AI Decisions by Shifting Epistemological Stances <span class="ed-chip">accepted</span></h3>
-    <p class="ed-venue">Short paper · 2023 · <a href="https://sml.disi.unitn.it/files/hldm23/HLDM23_363.pdf">Read →</a></p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div>
+      <h3>Towards Co-designing a Human-Agent Interface: A Case Study in Online Grooming Detection</h3>
+      <p class="ed-org">Short paper · HAI &rsquo;24 · 2024 · <a href="https://doi.org/10.1145/3687272.3690893">DOI →</a></p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Raising User Awareness of Bias-Leakage via Proxies in AI Models to Improve Fairness in Decision-Making <span class="ed-chip">accepted</span></h3>
-    <p class="ed-venue">Short paper · 2023 · <a href="https://aisb.org.uk/wp-content/uploads/2023/05/aisb2023.pdf">Read →</a></p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div>
+      <h3>Designing Bias Suppressing Robots for &lsquo;Fair&rsquo; Robot-Moderated Human-Human Interactions</h3>
+      <p class="ed-org">Short paper · HAI &rsquo;24 · 2024 · <a href="https://doi.org/10.1145/3687272.3690877">DOI →</a></p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Multi-Agent, LLM-Driven Social Robots to Reduce Bias <span class="ed-chip">in progress</span></h3>
-    <p class="ed-venue">Full paper · working title · 2025</p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div>
+      <h3>Towards Co-Designing a Continuous-Learning Human-AI Interface: A Case Study in Online Grooming Detection</h3>
+      <p class="ed-org">Short paper · SYNERGY workshop at AVI &rsquo;24 · 2024 · <a href="https://hal.science/hal-04556796/document">Read →</a></p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Exploring Personal Biases via Human-LLM Interactions <span class="ed-chip">in progress</span></h3>
-    <p class="ed-venue">Full paper · working title · 2025</p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div>
+      <h3>Enhancing Fairness, Justice and Accuracy of Hybrid Human-AI Decisions by Shifting Epistemological Stances</h3>
+      <p class="ed-org">Short paper · HLDM &rsquo;23 · 2023 · <a href="https://sml.disi.unitn.it/files/hldm23/HLDM23_363.pdf">Read →</a></p>
+    </div>
   </div>
-  <div class="ed-compact">
-    <h3>Designing Personal Bias Visualisations <span class="ed-chip">in progress</span></h3>
-    <p class="ed-venue">Full paper · working title · 2025</p>
+  <div class="ed-card">
+    <div class="ed-logo ed-status ed-status--accepted"><span>Accepted</span></div>
+    <div>
+      <h3>Raising User Awareness of Bias-Leakage via Proxies in AI Models to Improve Fairness in Decision-Making</h3>
+      <p class="ed-org">Short paper · AISB &rsquo;23 · 2023 · <a href="https://aisb.org.uk/wp-content/uploads/2023/05/aisb2023.pdf">Read →</a></p>
+    </div>
   </div>
 </section>
 
