@@ -168,6 +168,8 @@ body.ed-body {
   border-top: 1px solid var(--hairline);
 }
 .ed-row:first-of-type { border-top: 0; }
+/* education rows carry an institution mark between the date and the transcript */
+.ed-row--logo { grid-template-columns: 140px 72px 1fr; }
 .ed-row .ed-date {
   font-family: var(--sans);
   font-weight: 500;
@@ -416,9 +418,26 @@ body.ed-body {
 }
 .ed-logo--sm { min-height: 56px; }
 .ed-logo--sm span { font-size: 7px; }
+/* education rows: logos sit flush to the top of the transcript column */
+.ed-row--logo .ed-logo { height: 72px; min-height: 0; align-self: start; }
+.ed-row--logo .ed-logo img { width: 100%; height: 100%; object-fit: contain; padding: 8px; }
+@media (max-width: 720px) {
+  .ed-row--logo { grid-template-columns: 56px 1fr; column-gap: 14px; row-gap: 8px; }
+  .ed-row--logo .ed-date { grid-column: 1 / -1; padding-top: 0; }
+  .ed-row--logo .ed-logo { height: 56px; }
+  .ed-row--logo .ed-logo img { padding: 6px; }
+}
 @media (max-width: 560px) {
   .ed-service { grid-template-columns: 56px 1fr; gap: 12px; }
   .ed-logo--sm { min-height: 44px; }
+}
+/* wide wordmark logos read too small inside the 72px rail */
+.ed-service--wide { grid-template-columns: 128px 1fr; }
+.ed-service--wide .ed-logo { min-height: 56px; }
+.ed-logo--plain { background: transparent; }
+.ed-logo--plain img { padding: 0; }
+@media (max-width: 560px) {
+  .ed-service--wide { grid-template-columns: 84px 1fr; }
 }
 .ed-org a, .ed-desc a {
   color: var(--accent);

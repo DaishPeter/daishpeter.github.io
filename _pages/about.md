@@ -158,46 +158,52 @@ redirect_from:
 <section class="ed-section ed-wrap" id="education">
   <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education &amp; Fellowships</h2></div>
   <hr class="ed-section-rule">
-  <div class="ed-row">
+  <div class="ed-row ed-row--logo">
     <div class="ed-date">2021 — 25</div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>PhD — Human-AI Interaction and Bias in AI</h3>
       <p class="ed-org">Swansea University · ESRC DTP (1+3)</p>
       <span class="ed-honours">ESRC DTP fully funded</span>
     </div>
   </div>
-  <div class="ed-row">
+  <div class="ed-row ed-row--logo">
     <div class="ed-date">2025</div>
+    <div class="ed-logo"><img src="{{ '/images/logos/kyoto.png' | relative_url }}" alt="Kyoto University" loading="lazy"></div>
     <div>
       <h3>JSPS Post-doctoral Research Fellow</h3>
       <p class="ed-org">Kyoto University · Japan Society for the Promotion of Science</p>
     </div>
   </div>
-  <div class="ed-row">
+  <div class="ed-row ed-row--logo">
     <div class="ed-date">2024</div>
+    <div class="ed-logo"><img src="{{ '/images/logos/kaist.png' | relative_url }}" alt="KAIST" loading="lazy"></div>
     <div>
       <h3>Visiting Student Researcher — DxD Lab, Department of Industrial Design</h3>
       <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea</p>
     </div>
   </div>
-  <div class="ed-row">
+  <div class="ed-row ed-row--logo">
     <div class="ed-date">2020 — 21</div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>MSc Social Research Methods — Distinction</h3>
       <p class="ed-org">Swansea University</p>
       <span class="ed-honours">Distinction</span>
     </div>
   </div>
-  <div class="ed-row">
+  <div class="ed-row ed-row--logo">
     <div class="ed-date">2017 — 20</div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>BSc Software Engineering — First Class Honours</h3>
       <p class="ed-org">Swansea University</p>
       <span class="ed-honours">First Class Honours</span>
     </div>
   </div>
-  <div class="ed-row">
+  <div class="ed-row ed-row--logo">
     <div class="ed-date">Awards</div>
+    <div></div>
     <div>
       <h3>Grants &amp; scholarships</h3>
       <ul>
@@ -277,8 +283,8 @@ redirect_from:
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/avi-26-logo.png' | relative_url }}" alt="AVI 2026" loading="lazy"></div>
     <div><h3>AVI 2026 — Attendee</h3></div>
   </div>
-  <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/avi-26-logo.png' | relative_url }}" alt="AVI 2026" loading="lazy"></div>
+  <div class="ed-service ed-service--wide">
+    <div class="ed-logo ed-logo--sm ed-logo--plain"><img src="{{ '/images/logos/synergy-logo.png' | relative_url }}" alt="Synergy 2026" loading="lazy"></div>
     <div><h3>Synergy 2026 — Contributor (workshop hosted at AVI)</h3></div>
   </div>
 
