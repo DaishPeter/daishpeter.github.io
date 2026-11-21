@@ -252,19 +252,19 @@ redirect_from:
   <div class="ed-section-head"><span class="ed-section-num">05</span><h2>Research</h2></div>
   <hr class="ed-section-rule">
   <div class="ed-card">
-    <div class="ed-logo"><img src="{{ '/images/logos/interact-25-logo.png' | relative_url }}" alt="INTERACT 2025" loading="lazy"></div>
-    <div>
-      <span class="ed-badge ed-badge--accepted">Accepted</span>
-      <h3>Co-design of an Interactive AI Platform for Tactics-Based Detection of Online Grooming</h3>
-      <p class="ed-org">Full paper · INTERACT 2025 · Springer LNCS 16111 · 2026 · <a href="https://doi.org/10.1007/978-3-032-05008-3_36">DOI →</a></p>
-    </div>
-  </div>
-  <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/arxiv-logo.svg' | relative_url }}" alt="arXiv" loading="lazy"></div>
     <div>
       <span class="ed-badge ed-badge--preprint">Preprint</span>
       <h3>Fairness Explanations Improve Fairness in Human-AI Decision Making: an empirical evaluation of parole decision-making</h3>
       <p class="ed-org">Full paper · arXiv · 2026 · <a href="https://doi.org/10.48550/arXiv.2611.09924">Read the preprint →</a></p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo"><img src="{{ '/images/logos/interact-25-logo.png' | relative_url }}" alt="INTERACT 2025" loading="lazy"></div>
+    <div>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
+      <h3>Co-design of an Interactive AI Platform for Tactics-Based Detection of Online Grooming</h3>
+      <p class="ed-org">Full paper · INTERACT 2025 · Springer LNCS 16111 · 2025 · <a href="https://doi.org/10.1007/978-3-032-05008-3_36">DOI →</a></p>
     </div>
   </div>
   <div class="ed-card">
