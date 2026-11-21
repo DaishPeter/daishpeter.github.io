@@ -9,13 +9,9 @@ redirect_from:
 ---
 
 <section class="ed-hero ed-wrap" id="about">
-  <p class="ed-eyebrow">Human-AI Interaction Researcher — Swansea University</p>
   <h1>Research that keeps people in the&nbsp;loop.</h1>
-  <p class="ed-deck">Peter Daish is a post-doctoral Human-AI Interaction research assistant at Swansea
-  University and the founder of GlobebaseAI. He holds a PhD in Human-AI Interaction and Bias in AI
-  (ESRC DTP, 2021 — 2025), has worked with world-leading labs in the UK, Japan and South Korea on
-  Ethical AI, GenAI agents, machine learning and AI-driven robotics, and currently develops
-  synergistic human-AI decision-making on the EU Horizon TANGO project.</p>
+  <p class="ed-deck">I am a post-doctoral Human-AI Interaction research assistant at Swansea
+  University and the founder of GlobebaseAI. I've previously worked with world-leading labs in the UK, Japan and South Korea on Ethical AI, GenAI agents, machine learning and AI-driven robotics. I am currently working on developing synergistic human-AI interactions for augmented decision-making capabilities within the EU Horizon TANGO project.</p>
   <div class="ed-actions">
     <a class="ed-btn" href="{{ '/files/PeterDaishCV.pdf' | relative_url }}">Download CV (PDF) ↓</a>
     <a class="ed-link" href="{{ '/#contact' | relative_url }}">Get in touch →</a>
@@ -46,7 +42,7 @@ redirect_from:
   <hr class="ed-section-rule">
   <p class="ed-track">Academic &amp; Research</p>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>Post-Doctoral Research Assistant — EU Horizon project TANGO</h3>
       <p class="ed-org">Swansea University · UK · 2025 — 27</p>
@@ -60,7 +56,7 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/kyoto.png' | relative_url }}" alt="Kyoto University" loading="lazy"></div>
     <div>
       <h3>Postdoctoral Research Fellow — JSPS</h3>
       <p class="ed-org">Kyoto University · Japan · 2025</p>
@@ -73,7 +69,7 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>Research Assistant — bias in multimodal LLMs</h3>
       <p class="ed-org">Swansea University · UK · 2025</p>
@@ -83,7 +79,7 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/kaist.png' | relative_url }}" alt="KAIST" loading="lazy"></div>
     <div>
       <h3>Visiting Student Researcher — DxD Lab, Department of Industrial Design</h3>
       <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea · 2024</p>
@@ -92,7 +88,7 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>Research Assistant — continuous-learning HCI</h3>
       <p class="ed-org">Swansea University · UK · 2023</p>
@@ -102,7 +98,7 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
       <h3>Teaching Assistant</h3>
       <p class="ed-org">Swansea University · Department of Computer Science · 2022 — 25</p>
@@ -129,7 +125,7 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/daishgames.ico' | relative_url }}" alt="DaishGames" loading="lazy"></div>
     <div>
       <h3>Developer — DaishGames</h3>
       <p class="ed-org">Self-employed · Unity · Unreal Engine · Microsoft Visual Studio · 2015 — 20</p>
@@ -148,7 +144,7 @@ redirect_from:
 
   <p class="ed-track">Other Employment</p>
   <div class="ed-venture">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/jib.ico' | relative_url }}" alt="Japan International Broadcasting" loading="lazy"></div>
     <div>
       <h3>TV Monitor</h3>
       <p class="ed-org">Japan International Broadcasting Inc. · 2019 — 24</p>
@@ -261,45 +257,45 @@ redirect_from:
 
   <p class="ed-year">2026</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>ACM MUM — Area Chair</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>ACM IUI — Programme Committee</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>ACM CHI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/ieee.png' | relative_url }}" alt="IEEE" loading="lazy"></div>
     <div><h3>IEEE IROS — Reviewer</h3></div>
   </div>
 
   <p class="ed-year">2025</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>ACM CHI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>ACM FAccT — Reviewer</h3></div>
   </div>
 
   <p class="ed-year">2024</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>HAI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
     <div><h3>HAI — Student Volunteer</h3></div>
   </div>
 
   <p class="ed-year">2023</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div><h3>Swansea University Table Tennis Club — Safeguarding Officer</h3></div>
   </div>
 
@@ -311,7 +307,7 @@ redirect_from:
 
   <p class="ed-year">2015 — 17</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/oxfam.png' | relative_url }}" alt="Oxfam" loading="lazy"></div>
     <div><h3>Oxfam — Online Digital Sales Marketing Associate</h3></div>
   </div>
 </section>
