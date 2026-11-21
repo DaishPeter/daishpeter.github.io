@@ -26,11 +26,11 @@ redirect_from:
   <div class="ed-section-head"><span class="ed-section-num">01</span><h2>Experience</h2></div>
   <hr class="ed-section-rule">
   <p class="ed-track">Academic &amp; Research</p>
-  <div class="ed-row">
-    <div class="ed-date">2025 — 27</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>Post-Doctoral Research Assistant — EU Horizon project TANGO</h3>
-      <p class="ed-org">Swansea University · UK</p>
+      <p class="ed-org">Swansea University · UK · 2025 — 27</p>
       <ul>
         <li>Lead development showcasing the latest Explainable AI innovations from researchers across
         the EU, creating novel interactive experiences on the TANGO platform.</li>
@@ -40,11 +40,11 @@ redirect_from:
       </ul>
     </div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2025</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>Postdoctoral Research Fellow — JSPS</h3>
-      <p class="ed-org">Kyoto University · Japan</p>
+      <p class="ed-org">Kyoto University · Japan · 2025</p>
       <ul>
         <li>Investigated multimodal LLMs that enable robots to identify and respond to bias in
         real-time human-human interactions.</li>
@@ -53,46 +53,40 @@ redirect_from:
       </ul>
     </div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2025</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>Research Assistant — bias in multimodal LLMs</h3>
-      <p class="ed-org">Swansea University · UK</p>
-      <ul>
-        <li>Deployed and evaluated multimodal LLMs across popular local and online models — Gemini,
-        GPT-4o and LLaVA — for the assessment of bias, informing the common pitfalls of guardrails
-        that are often fragile and can be bypassed inadvertently.</li>
-      </ul>
+      <p class="ed-org">Swansea University · UK · 2025</p>
+      <p class="ed-desc">Deployed and evaluated multimodal LLMs across popular local and online models —
+      Gemini, GPT-4o and LLaVA — for the assessment of bias, informing the common pitfalls of guardrails
+      that are often fragile and can be bypassed inadvertently.</p>
     </div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2024</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>Visiting Student Researcher — DxD Lab, Department of Industrial Design</h3>
-      <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea</p>
-      <ul>
-        <li>Researched data-driven approaches to fairness and applied design-oriented thinking to the
-        development of novel Human-AI interactions, supervised by Professor Hong.</li>
-      </ul>
+      <p class="ed-org">KAIST (Korea Advanced Institute of Science &amp; Technology) · South Korea · 2024</p>
+      <p class="ed-desc">Researched data-driven approaches to fairness and applied design-oriented thinking
+      to the development of novel Human-AI interactions, supervised by Professor Hong.</p>
     </div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2023</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>Research Assistant — continuous-learning HCI</h3>
-      <p class="ed-org">Swansea University · UK</p>
-      <ul>
-        <li>Part of the HCI team developing a continuous-learning environment for UK and international
-        police forces, using a bespoke deep-learning NLP algorithm to identify and annotate nefarious
-        conversations.</li>
-      </ul>
+      <p class="ed-org">Swansea University · UK · 2023</p>
+      <p class="ed-desc">Part of the HCI team developing a continuous-learning environment for UK and
+      international police forces, using a bespoke deep-learning NLP algorithm to identify and annotate
+      nefarious conversations.</p>
     </div>
   </div>
-  <div class="ed-row">
-    <div class="ed-date">2022 — 25</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>Teaching Assistant</h3>
-      <p class="ed-org">Swansea University · Department of Computer Science</p>
+      <p class="ed-org">Swansea University · Department of Computer Science · 2022 — 25</p>
       <ul>
         <li>Demonstrated labs for modules including Algorithms, Declarative Programming, Abuses Biases
         and Blessings of Data, Video Games Programming, Network and Security, Artificial Intelligence
@@ -134,15 +128,13 @@ redirect_from:
   </div>
 
   <p class="ed-track">Other Employment</p>
-  <div class="ed-row">
-    <div class="ed-date">2019 — 24</div>
+  <div class="ed-venture">
+    <div class="ed-logo"><span>LOGO</span></div>
     <div>
       <h3>TV Monitor</h3>
-      <p class="ed-org">Japan International Broadcasting Inc.</p>
-      <ul>
-        <li>Monitored TV programmes and provided constructive user feedback used to improve future
-        productions.</li>
-      </ul>
+      <p class="ed-org">Japan International Broadcasting Inc. · 2019 — 24</p>
+      <p class="ed-desc">Monitored TV programmes and provided constructive user feedback used to improve
+      future productions.</p>
     </div>
   </div>
 </section>
