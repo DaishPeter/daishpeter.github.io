@@ -270,7 +270,7 @@ redirect_from:
     <div><h3>ACM CHI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/ieee.png' | relative_url }}" alt="IEEE" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/iros-26-logo.png' | relative_url }}" alt="IROS 2026" loading="lazy"></div>
     <div><h3>IEEE IROS — Reviewer</h3></div>
   </div>
 
@@ -280,7 +280,7 @@ redirect_from:
     <div><h3>ACM CHI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/facct-25-logo.png' | relative_url }}" alt="FAccT 2025" loading="lazy"></div>
     <div><h3>ACM FAccT — Reviewer</h3></div>
   </div>
 
