@@ -10,8 +10,8 @@ redirect_from:
 
 <section class="ed-hero ed-wrap" id="about">
   <h1>Research that keeps people in the&nbsp;loop.</h1>
-  <p class="ed-deck">I am a post-doctoral Human-AI Interaction research assistant at Swansea
-  University and the founder of GlobebaseAI. I've previously worked with world-leading labs in the UK, Japan and South Korea on Ethical AI, GenAI agents, machine learning and AI-driven robotics. I am currently working on developing synergistic human-AI interactions for augmented decision-making capabilities within the EU Horizon TANGO project.</p>
+  <p class="ed-deck">I am a post-doctoral research assistant at Swansea
+  University specliasing in Human-AI Interaction and Decision-Making. Throughout my research training, I've  studied in leading labs in the UK, Japan and South Korea on User-centered design, Ethical AI, GenAI agents, machine learning and AI-driven robotics. I am currently working on developing synergistic human-AI interactions for augmented decision-making capabilities within the EU Horizon TANGO project. In late 2025, I was accepted onto FutureWorld's AI Start-up accelerator and I will continue to pursue research commercialisation opportunities through GlobebaseAI.</p>
   <div class="ed-actions">
     <a class="ed-btn" href="{{ '/files/PeterDaishCV.pdf' | relative_url }}">Download CV (PDF) ↓</a>
     <a class="ed-link" href="{{ '/#contact' | relative_url }}">Get in touch →</a>
