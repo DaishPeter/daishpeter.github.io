@@ -338,6 +338,8 @@ body.ed-body {
   align-items: center;
   justify-content: center;
 }
+.ed-venture .ed-logo { align-self: start; }
+.ed-logo--dark { background: var(--ink); }
 .ed-venture--lead .ed-logo { min-height: 120px; }
 .ed-logo span {
   font-family: var(--sans);
@@ -398,7 +400,7 @@ body.ed-body {
 .ed-year:first-of-type { margin-top: 0; padding-top: 0; border-top: 0; }
 .ed-service {
   display: grid;
-  grid-template-columns: 48px 1fr;
+  grid-template-columns: 72px 1fr;
   gap: 16px;
   align-items: center;
   background: var(--surface);
@@ -412,12 +414,17 @@ body.ed-body {
   font-size: 15px;
   margin: 0;
 }
-.ed-logo--sm { min-height: 48px; }
+.ed-logo--sm { min-height: 56px; }
 .ed-logo--sm span { font-size: 7px; }
 @media (max-width: 560px) {
-  .ed-service { grid-template-columns: 40px 1fr; gap: 12px; }
-  .ed-logo--sm { min-height: 40px; }
+  .ed-service { grid-template-columns: 56px 1fr; gap: 12px; }
+  .ed-logo--sm { min-height: 44px; }
 }
+.ed-org a, .ed-desc a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.ed-org a:hover, .ed-desc a:hover { text-decoration: underline; }
 @media (max-width: 560px) {
   .ed-venture, .ed-venture--lead { grid-template-columns: 72px 1fr; gap: 16px; padding: 16px; }
   .ed-logo, .ed-venture--lead .ed-logo { min-height: 72px; }

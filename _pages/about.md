@@ -114,7 +114,7 @@ redirect_from:
 
   <p class="ed-track">Independent Business Ventures</p>
   <div class="ed-venture ed-venture--lead">
-    <div class="ed-logo"><span>LOGO</span></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/globebaseai-logo.png' | relative_url }}" alt="GlobebaseAI" loading="lazy"></div>
     <div>
       <h3>Founder — GlobebaseAI</h3>
       <p class="ed-org">FutureWorlds AI Accelerator · University of Southampton · Responsible AI UK (RAI) · 2025 — now</p>
@@ -125,12 +125,13 @@ redirect_from:
     </div>
   </div>
   <div class="ed-venture">
-    <div class="ed-logo"><img src="{{ '/images/logos/daishgames.ico' | relative_url }}" alt="DaishGames" loading="lazy"></div>
+    <div class="ed-logo"><img src="{{ '/images/logos/daishgames-logo.jpg' | relative_url }}" alt="DaishGames" loading="lazy"></div>
     <div>
       <h3>Developer — DaishGames</h3>
       <p class="ed-org">Self-employed · Unity · Unreal Engine · Microsoft Visual Studio · 2015 — 20</p>
       <p class="ed-desc">Designed and developed games featured on PlayStation Mobile, the Google Play
       Store, the Amazon App Store and itch.io.</p>
+      <p class="ed-org"><a href="https://daishgamescom.wordpress.com/">daishgamescom.wordpress.com</a> · <a href="https://x.com/DaishGames">@DaishGames on X</a></p>
     </div>
   </div>
   <div class="ed-venture">
@@ -257,15 +258,15 @@ redirect_from:
 
   <p class="ed-year">2026</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/mum-26-logo.png' | relative_url }}" alt="MUM 2026" loading="lazy"></div>
     <div><h3>ACM MUM — Area Chair</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm ed-logo--dark"><img src="{{ '/images/logos/iui-26-logo.png' | relative_url }}" alt="IUI 2026" loading="lazy"></div>
     <div><h3>ACM IUI — Programme Committee</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/chi-26-logo.png' | relative_url }}" alt="CHI 2026" loading="lazy"></div>
     <div><h3>ACM CHI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
@@ -275,7 +276,7 @@ redirect_from:
 
   <p class="ed-year">2025</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/chi-25-logo.svg' | relative_url }}" alt="CHI 2025" loading="lazy"></div>
     <div><h3>ACM CHI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
@@ -285,11 +286,11 @@ redirect_from:
 
   <p class="ed-year">2024</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
     <div><h3>HAI — Reviewer</h3></div>
   </div>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/acm.png' | relative_url }}" alt="ACM" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
     <div><h3>HAI — Student Volunteer</h3></div>
   </div>
 
@@ -301,7 +302,7 @@ redirect_from:
 
   <p class="ed-year">2022</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><span>LOGO</span></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/23-things.png' | relative_url }}" alt="23 Things International" loading="lazy"></div>
     <div><h3>23Things International — POD Chair</h3></div>
   </div>
 
