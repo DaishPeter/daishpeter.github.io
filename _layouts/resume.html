@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ site.locale | default: 'en' }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }} · {{ site.title }}</title>
+  <meta name="description" content="{{ site.description | default: page.excerpt }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,400;8..60,500;8..60,600&family=Work+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
+</head>
+<body class="ed-body">
+
+  <header class="ed-masthead">
+    <div class="ed-wrap">
+      <a class="ed-wordmark" href="{{ '/' | relative_url }}">PETER DAISH</a>
+      <nav class="ed-nav" aria-label="Primary">
+        <a class="is-active" href="{{ '/#about' | relative_url }}">Resume</a>
+        <a href="{{ '/#experience' | relative_url }}">Experience</a>
+        <a href="{{ '/#publications' | relative_url }}">Publications</a>
+        <a href="{{ '/#contact' | relative_url }}">Contact</a>
+        <a href="{{ '/files/PeterDaishCV.pdf' | relative_url }}">CV ↓</a>
+      </nav>
+    </div>
+    <hr class="ed-masthead-rule">
+  </header>
+
+  <main>
+    {{ content }}
+  </main>
+
+  <footer class="ed-footer">
+    <div class="ed-wrap">
+      <p>daishpeter.github.io</p>
+      <p>© {{ site.time | date: '%Y' }} Peter Daish</p>
+    </div>
+  </footer>
+
+</body>
+</html>
