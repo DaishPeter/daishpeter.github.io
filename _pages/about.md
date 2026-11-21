@@ -2,7 +2,7 @@
 layout: resume
 permalink: /
 title: "Resume"
-excerpt: "Peter Daish — Human-AI Interaction researcher at Swansea University. PhD in Human-AI Interaction and Bias in AI; post-doctoral research assistant on the EU Horizon TANGO project."
+excerpt: "Peter Daish — Human-AI Interaction researcher at Swansea University, founder of GlobebaseAI. PhD in Human-AI Interaction and Bias in AI; post-doctoral research assistant on the EU Horizon TANGO project."
 redirect_from: 
   - /about/
   - /about.html
@@ -11,10 +11,11 @@ redirect_from:
 <section class="ed-hero ed-wrap" id="about">
   <p class="ed-eyebrow">Human-AI Interaction Researcher — Swansea University</p>
   <h1>Research that keeps people in the&nbsp;loop.</h1>
-  <p class="ed-deck">Peter Daish is a Human-AI Interaction researcher at Swansea University. He holds a
-  PhD in Human-AI Interaction and Bias in AI (ESRC DTP, 2021 — 2025) and has worked with world-leading
-  labs in the UK, Japan and South Korea on Ethical AI, GenAI agents, machine learning and AI-driven
-  robotics — currently as post-doctoral research assistant on the EU Horizon TANGO project.</p>
+  <p class="ed-deck">Peter Daish is a post-doctoral Human-AI Interaction research assistant at Swansea
+  University and the founder of GlobebaseAI. He holds a PhD in Human-AI Interaction and Bias in AI
+  (ESRC DTP, 2021 — 2025), has worked with world-leading labs in the UK, Japan and South Korea on
+  Ethical AI, GenAI agents, machine learning and AI-driven robotics, and currently develops
+  synergistic human-AI decision-making on the EU Horizon TANGO project.</p>
   <div class="ed-actions">
     <a class="ed-btn" href="{{ '/files/PeterDaishCV.pdf' | relative_url }}">Download CV (PDF) ↓</a>
     <a class="ed-link" href="{{ '/#contact' | relative_url }}">Get in touch →</a>
@@ -27,11 +28,13 @@ redirect_from:
   <div class="ed-row">
     <div class="ed-date">2025 — now</div>
     <div>
-      <h3>Entrepreneur — FutureWorlds AI Accelerator</h3>
-      <p class="ed-org">University of Southampton · Responsible AI UK (RAI)</p>
+      <h3>Founder — GlobebaseAI</h3>
+      <p class="ed-org">FutureWorlds AI Accelerator · University of Southampton · Responsible AI UK (RAI)</p>
       <ul>
-        <li>Working towards commercialising my research on the responsible deployment of AI in
-        society, as part of the Responsible AI UK accelerator 2026 programme.</li>
+        <li>Participated in the Southampton University and FutureWorlds Responsible AI UK (RAI) AI
+        Accelerator 2026 programme as founder of GlobebaseAI.</li>
+        <li>Commercialising my research on the responsible deployment of AI in society, and designing
+        AI-infused technologies that promote productivity and fairness in real-world settings.</li>
       </ul>
     </div>
   </div>
@@ -174,6 +177,19 @@ redirect_from:
       <h3>BSc Software Engineering — First Class Honours</h3>
       <p class="ed-org">Swansea University</p>
       <span class="ed-honours">First Class Honours</span>
+    </div>
+  </div>
+  <div class="ed-row">
+    <div class="ed-date">Awards</div>
+    <div>
+      <h3>Grants &amp; scholarships</h3>
+      <ul>
+        <li>2025 — FutureWorlds AI Accelerator Launchpad</li>
+        <li>2025 — JSPS Postdoctoral Fellowship, Kyoto University</li>
+        <li>2024 — KAIST Visiting Student Researcher, Department of Industrial Design</li>
+        <li>2023 — ESRC Overseas Institutional Visit (OIV) scholarship</li>
+        <li>2021 — ESRC DTP fully funded 1+3 MSc and PhD scholarship</li>
+      </ul>
     </div>
   </div>
 </section>
