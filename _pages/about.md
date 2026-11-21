@@ -354,6 +354,23 @@ redirect_from:
       <p class="ed-desc">Co-authored with Tommaso Turchi, Ben Wilson, Matt Roach and Alan Dix.</p>
     </div>
   </div>
+  <div class="ed-card">
+    <div class="ed-logo ed-logo--plain"><img src="{{ '/images/logos/synergy-logo.png' | relative_url }}" alt="SYNERGY workshop" loading="lazy"></div>
+    <div>
+      <span class="ed-badge ed-badge--contributor">Contributor</span>
+      <h3>Designing and Building Hybrid Human–AI Systems (SYNERGY 2026)</h3>
+      <p class="ed-org">Workshop summary · AVI &rsquo;26, Venice · 2026 · <a href="https://doi.org/10.1145/3811427.3811485">DOI →</a></p>
+      <p class="ed-desc">Not listed as an author: contributed the design of the SYNERGY workshop cards and co-led the SYNERGY design workshop at AVI 2026 in Venice.</p>
+    </div>
+  </div>
+  <div class="ed-card">
+    <div class="ed-logo"><img src="{{ '/images/logos/manuscript.svg' | relative_url }}" alt="Manuscript in preparation" loading="lazy"></div>
+    <div>
+      <span class="ed-badge ed-badge--pending">Pending</span>
+      <h3>Resolving Conflicts in Dyads Through Human-AI Interactions</h3>
+      <p class="ed-org">Working title · in preparation</p>
+    </div>
+  </div>
 </section>
 
 <section class="ed-section ed-wrap" id="service">
@@ -412,7 +429,7 @@ redirect_from:
 
   <p class="ed-year">2023</p>
   <div class="ed-service">
-    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
+    <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/swansea-tt-club.png' | relative_url }}" alt="Swansea University Table Tennis Club" loading="lazy"></div>
     <div><h3>Swansea University Table Tennis Club — Safeguarding Officer</h3></div>
   </div>
   <div class="ed-service">

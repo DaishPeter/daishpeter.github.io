@@ -422,6 +422,12 @@ body.ed-body {
   border: 1px dashed var(--muted);
   color: var(--muted);
 }
+/* work contributed to but not authored: reads as neither published-gold nor unwritten */
+.ed-badge--contributor {
+  background: transparent;
+  border: 1px solid var(--accent);
+  color: var(--accent);
+}
 .ed-card h3,
 .ed-venture h3 {
   font-family: var(--serif);
