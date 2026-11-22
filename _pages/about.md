@@ -380,95 +380,95 @@ redirect_from:
   <p class="ed-year">2026</p>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/mum-26-logo.png' | relative_url }}" alt="MUM 2026" loading="lazy"></div>
-    <div><h3>ACM MUM — Area Chair</h3><p class="ed-loc">Glasgow, UK</p></div>
+    <div><h3>ACM MUM</h3><p class="ed-role">Area Chair</p><p class="ed-loc">Glasgow, UK</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/finnieston-crane.svg' | relative_url }}" alt="Finnieston Crane, Glasgow" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm ed-logo--dark"><img src="{{ '/images/logos/iui-26-logo.png' | relative_url }}" alt="IUI 2026" loading="lazy"></div>
-    <div><h3>ACM IUI — Programme Committee</h3><p class="ed-loc">Limassol, Cyprus</p></div>
+    <div><h3>ACM IUI</h3><p class="ed-role">Programme Committee</p><p class="ed-loc">Limassol, Cyprus</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/kolossi.svg' | relative_url }}" alt="Kolossi Castle, Limassol" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/chi-26-logo.png' | relative_url }}" alt="CHI 2026" loading="lazy"></div>
-    <div><h3>ACM CHI 2026 — Reviewer &amp; Participant</h3><p class="ed-loc">Barcelona, Spain</p></div>
+    <div><h3>ACM CHI 2026</h3><p class="ed-role">Reviewer &amp; Participant</p><p class="ed-loc">Barcelona, Spain</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/sagrada.svg' | relative_url }}" alt="Sagrada Família, Barcelona" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/iros-26-logo.png' | relative_url }}" alt="IROS 2026" loading="lazy"></div>
-    <div><h3>IEEE IROS — Reviewer</h3><p class="ed-loc">Pittsburgh, US</p></div>
+    <div><h3>IEEE IROS</h3><p class="ed-role">Reviewer</p><p class="ed-loc">Pittsburgh, US</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/duquesne-incline.svg' | relative_url }}" alt="Duquesne Incline, Pittsburgh" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/avi-26-logo.png' | relative_url }}" alt="AVI 2026" loading="lazy"></div>
-    <div><h3>AVI 2026 — Conference Participant</h3><p class="ed-loc">Venice, Italy</p></div>
+    <div><h3>AVI 2026</h3><p class="ed-role">Conference Participant</p><p class="ed-loc">Venice, Italy</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/rialto.svg' | relative_url }}" alt="Rialto Bridge, Venice" loading="lazy">
   </div>
   <div class="ed-service ed-service--wide ed-service--place">
     <div class="ed-logo ed-logo--sm ed-logo--plain"><img src="{{ '/images/logos/synergy-logo.png' | relative_url }}" alt="Synergy 2026" loading="lazy"></div>
-    <div><h3>Synergy 2026 — Contributor (workshop hosted at AVI)</h3><p class="ed-loc">Venice, Italy</p></div>
+    <div><h3>Synergy 2026</h3><p class="ed-role">Contributor (workshop hosted at AVI)</p><p class="ed-loc">Venice, Italy</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/rialto.svg' | relative_url }}" alt="Rialto Bridge, Venice" loading="lazy">
   </div>
 
   <p class="ed-year">2025</p>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/chi-25-logo.svg' | relative_url }}" alt="CHI 2025" loading="lazy"></div>
-    <div><h3>ACM CHI — Reviewer</h3><p class="ed-loc">Yokohama, Japan</p></div>
+    <div><h3>ACM CHI</h3><p class="ed-role">Reviewer</p><p class="ed-loc">Yokohama, Japan</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/landmark-tower.svg' | relative_url }}" alt="Landmark Tower, Yokohama" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/facct-25-logo.png' | relative_url }}" alt="FAccT 2025" loading="lazy"></div>
-    <div><h3>ACM FAccT — Reviewer</h3><p class="ed-loc">Athens, Greece</p></div>
+    <div><h3>ACM FAccT</h3><p class="ed-role">Reviewer</p><p class="ed-loc">Athens, Greece</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/parthenon.svg' | relative_url }}" alt="Parthenon, Athens" loading="lazy">
   </div>
 
   <p class="ed-year">2024</p>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
-    <div><h3>HAI — Reviewer</h3><p class="ed-loc">Swansea, UK</p></div>
+    <div><h3>HAI</h3><p class="ed-role">Reviewer</p><p class="ed-loc">Swansea, UK</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/bay-campus.svg' | relative_url }}" alt="Bay Campus clock tower, Swansea" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/hai-24-logo.png' | relative_url }}" alt="HAI 2024" loading="lazy"></div>
-    <div><h3>HAI — Student Volunteer</h3><p class="ed-loc">Swansea, UK</p></div>
+    <div><h3>HAI</h3><p class="ed-role">Student Volunteer</p><p class="ed-loc">Swansea, UK</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/bay-campus.svg' | relative_url }}" alt="Bay Campus clock tower, Swansea" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/facct-24-logo.png' | relative_url }}" alt="FAccT 2024" loading="lazy"></div>
-    <div><h3>ACM FAccT 2024 — Conference Participant</h3><p class="ed-loc">Rio de Janeiro, Brazil</p></div>
+    <div><h3>ACM FAccT 2024</h3><p class="ed-role">Conference Participant</p><p class="ed-loc">Rio de Janeiro, Brazil</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/christ-redeemer.svg' | relative_url }}" alt="Christ the Redeemer, Rio de Janeiro" loading="lazy">
   </div>
 
   <p class="ed-year">2023</p>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/swansea-tt-club.png' | relative_url }}" alt="Swansea University Table Tennis Club" loading="lazy"></div>
-    <div><h3>Swansea University Table Tennis Club — Safeguarding Officer</h3></div>
+    <div><h3>Swansea University Table Tennis Club</h3><p class="ed-role">Safeguarding Officer</p></div>
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/aisb-logo.png' | relative_url }}" alt="AISB" loading="lazy"></div>
-    <div><h3>AISB 2023 — Conference Participant &amp; Presenter</h3><p class="ed-loc">Swansea, UK</p></div>
+    <div><h3>AISB 2023</h3><p class="ed-role">Conference Participant &amp; Presenter</p><p class="ed-loc">Swansea, UK</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/bay-campus.svg' | relative_url }}" alt="Bay Campus clock tower, Swansea" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/ecml-pkdd-23-logo.png' | relative_url }}" alt="ECML PKDD 2023, Turin" loading="lazy"></div>
-    <div><h3>ECML-PKDD &rsquo;23 — Conference Participant</h3><p class="ed-loc">Turin, Italy</p></div>
+    <div><h3>ECML-PKDD &rsquo;23</h3><p class="ed-role">Conference Participant</p><p class="ed-loc">Turin, Italy</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/mole-antonelliana.svg' | relative_url }}" alt="Mole Antonelliana, Turin" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/ecml-pkdd-23-logo.png' | relative_url }}" alt="ECML PKDD 2023, Turin" loading="lazy"></div>
-    <div><h3>HLDM &rsquo;23 — Poster Presentation (workshop at ECML-PKDD)</h3><p class="ed-loc">Turin, Italy</p></div>
+    <div><h3>HLDM &rsquo;23</h3><p class="ed-role">Poster Presentation (workshop at ECML-PKDD)</p><p class="ed-loc">Turin, Italy</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/mole-antonelliana.svg' | relative_url }}" alt="Mole Antonelliana, Turin" loading="lazy">
   </div>
 
   <p class="ed-year">2022</p>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/23-things.png' | relative_url }}" alt="23 Things International" loading="lazy"></div>
-    <div><h3>23Things International — POD Chair</h3></div>
+    <div><h3>23Things International</h3><p class="ed-role">POD Chair</p></div>
   </div>
 
   <p class="ed-year">2015 — 17</p>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/oxfam.png' | relative_url }}" alt="Oxfam" loading="lazy"></div>
-    <div><h3>Oxfam — Online Digital Sales Marketing Associate</h3></div>
+    <div><h3>Oxfam</h3><p class="ed-role">Online Digital Sales Marketing Associate</p></div>
   </div>
 </section>
 
