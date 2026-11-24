@@ -419,7 +419,7 @@ redirect_from:
     <div><h3>AVI 2026</h3><p class="ed-role">Conference Participant</p><p class="ed-loc">Venice, Italy</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/rialto.svg' | relative_url }}" alt="Rialto Bridge, Venice" loading="lazy">
   </div>
-  <div class="ed-service ed-service--wide ed-service--place">
+  <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm ed-logo--plain"><img src="{{ '/images/logos/synergy-logo.png' | relative_url }}" alt="Synergy 2026" loading="lazy"></div>
     <div><h3>Synergy 2026</h3><p class="ed-role">Contributor (workshop hosted at AVI)</p><p class="ed-loc">Venice, Italy</p></div>
     <img class="ed-landmark" src="{{ '/assets/landmarks/rialto.svg' | relative_url }}" alt="Rialto Bridge, Venice" loading="lazy">
