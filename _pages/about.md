@@ -190,29 +190,42 @@ redirect_from:
 <section class="ed-section ed-wrap" id="education">
   <div class="ed-section-head"><span class="ed-section-num">03</span><h2>Education</h2></div>
   <hr class="ed-section-rule">
-  <div class="ed-card">
-    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
-    <div>
-      <h3>PhD — Human-AI Interaction and Bias in AI</h3>
-      <p class="ed-org">Swansea University · ESRC DTP (1+3) · 2021 — 25</p>
-      <p class="ed-desc">Passed subject to minor corrections.</p>
-      <span class="ed-honours">ESRC DTP fully funded</span>
+  <div class="ed-edu-pair">
+    <div class="ed-card">
+      <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
+      <div>
+        <h3>PhD — Human-AI Interaction and Bias in AI<span class="ed-grade-dot"></span><span class="ed-grade">Passed subject to Minor Corrections</span></h3>
+        <p class="ed-org">Swansea University · 2021 — 25</p>
+        <p class="ed-desc">User Centred Design Approach to Designing and Evaluating Fair Unbiased AI-Driven Models in Socio-Technical Decision Support Systems</p>
+      </div>
     </div>
+    <div class="ed-card">
+      <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
+      <div>
+        <h3>MSc Social Research Methods<span class="ed-grade-dot"></span><span class="ed-grade">Distinction</span></h3>
+        <p class="ed-org">Swansea University · 2020 — 21</p>
+        <p class="ed-desc">[Dissertation title to be added.]</p>
+      </div>
+    </div>
+    <div class="ed-edu-rail"></div>
+    <aside class="ed-edu-spine">
+      <h3 class="ed-spine-title">ESRC Wales DTP</h3>
+      <p class="ed-spine-sub">1 + 3 Studentship — MSc + PhD</p>
+      <p class="ed-spine-line">Track: Digital Economy and Society</p>
+      <p class="ed-spine-line">Grant ES/P00069X/1</p>
+      <p class="ed-spine-line">Project ref 2426249</p>
+      <p class="ed-spine-line"><a href="https://gtr.ukri.org/find-research-and-innovation/project/403cd7e0-64c1-45f5-9406-8f291b1fe86a" target="_blank" rel="noopener">UKRI GTR — project page</a></p>
+      <a class="ed-spine-logo" href="https://wgsss.ac.uk/profile/peter-daish/" target="_blank" rel="noopener">
+        <img src="{{ '/images/logos/esrc-wales-dtp-logo.png' | relative_url }}" alt="ESRC Wales Doctoral Training Partnership" loading="lazy">
+      </a>
+    </aside>
   </div>
   <div class="ed-card">
     <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
     <div>
-      <h3>MSc Social Research Methods — Distinction</h3>
-      <p class="ed-org">Swansea University · 2020 — 21</p>
-      <span class="ed-honours">Distinction</span>
-    </div>
-  </div>
-  <div class="ed-card">
-    <div class="ed-logo"><img src="{{ '/images/logos/swansea.png' | relative_url }}" alt="Swansea University" loading="lazy"></div>
-    <div>
-      <h3>BSc Software Engineering — First Class Honours</h3>
+      <h3>BSc Software Engineering<span class="ed-grade-dot"></span><span class="ed-grade">1<sup>st</sup> Class Honours</span></h3>
       <p class="ed-org">Swansea University · 2017 — 20</p>
-      <span class="ed-honours">First Class Honours</span>
+      <p class="ed-desc">[Dissertation title to be added.]</p>
     </div>
   </div>
 </section>

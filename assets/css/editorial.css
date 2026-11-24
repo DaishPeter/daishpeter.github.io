@@ -547,3 +547,102 @@ body.ed-body {
   /* a floated badge starves the title of width on a phone, so it takes its own line */
   .ed-badge { float: none; display: inline-flex; margin: 0 0 8px; }
 }
+
+/* ---------- education: funded-pair spine (right) + inline grades ----------
+   The viva outcome rides inline after the degree title — serif dot, then the
+   grade in small accent caps — replacing the pill row entirely. The DTP
+   funding facts are stated once, in a spine column on the right of the
+   MSc + PhD pair they fund (hairline rail between), not per card. */
+.ed-edu-pair {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 24px minmax(200px, 248px);
+  row-gap: 16px;
+  margin: 0 0 32px;
+}
+.ed-edu-pair .ed-card { margin: 0; }
+.ed-edu-rail {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  border-right: 1px solid var(--hairline);
+}
+.ed-edu-spine {
+  grid-column: 3;
+  grid-row: 1 / span 2;
+  align-self: start;
+  padding-left: 24px;
+}
+/* the DTP mark links to the WGSSS alumni profile and anchors the spine foot */
+.ed-spine-logo {
+  display: inline-block;
+  margin: 24px 0 0;
+}
+.ed-spine-logo img {
+  display: block;
+  height: 108px;
+  width: auto;
+}
+.ed-spine-title {
+  font-family: var(--serif);
+  font-weight: 600;
+  font-size: 15px;
+  margin: 0 0 6px;
+}
+.ed-spine-sub {
+  font-family: var(--sans);
+  font-size: 14px;
+  color: var(--muted);
+  margin: 0 0 16px;
+}
+.ed-spine-line {
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--muted);
+  margin: 0 0 8px;
+}
+.ed-spine-line a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.ed-spine-line a:hover { text-decoration: underline; }
+/* inline grade: Title ● GRADE — the 6px dot echoes the research badge */
+.ed-grade-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--ink);
+  margin: 0 10px;
+  vertical-align: middle;
+  /* both caps-centres: the grade's 10px caps centre 2px lower than the
+     title's 14px caps on the shared baseline — the grade is raised to
+     match (below), and the dot sits on that shared optical axis */
+  position: relative;
+  top: -3px;
+}
+.ed-grade {
+  font-family: var(--sans);
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  position: relative;
+  top: -2px;
+}
+.ed-grade sup {
+  font-size: 10px;
+  vertical-align: super;
+  letter-spacing: 0.06em;
+}
+@media (max-width: 900px) {
+  .ed-edu-pair { grid-template-columns: 1fr; }
+  .ed-edu-rail { display: none; }
+  .ed-edu-spine {
+    grid-column: 1;
+    grid-row: auto;
+    padding-left: 16px;
+    border-left: 1px solid var(--hairline);
+    margin: 0 0 16px;
+  }
+}
