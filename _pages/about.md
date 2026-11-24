@@ -455,9 +455,10 @@ redirect_from:
   </div>
 
   <p class="ed-year">2023</p>
-  <div class="ed-service">
+  <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/swansea-tt-club.png' | relative_url }}" alt="Swansea University Table Tennis Club" loading="lazy"></div>
-    <div><h3>Swansea University Table Tennis Club</h3><p class="ed-role">Safeguarding Officer</p></div>
+    <div><h3>Swansea University Table Tennis Club</h3><p class="ed-role">Safeguarding Officer</p><p class="ed-loc">Swansea, UK</p></div>
+    <img class="ed-landmark" src="{{ '/assets/landmarks/bay-campus.svg' | relative_url }}" alt="Bay Campus clock tower, Swansea" loading="lazy">
   </div>
   <div class="ed-service ed-service--place">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/aisb-logo.png' | relative_url }}" alt="AISB" loading="lazy"></div>
