@@ -364,15 +364,17 @@ redirect_from:
       <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>When AI Solves the Wrong Problems: Sociotechnical Dissociation in Designing Human-AI Combination</h3>
       <p class="ed-org">Full paper · HHAI 2026 · pp. 221–230 · 2026 · <a href="https://doi.org/10.3233/FAIA260507">DOI →</a></p>
+      <p class="ed-role">Contribution · Co-author</p>
       <p class="ed-desc">Co-authored with Tommaso Turchi, Ben Wilson, Matt Roach and Alan Dix.</p>
     </div>
   </div>
   <div class="ed-card">
     <div class="ed-logo ed-logo--plain"><img src="{{ '/images/logos/synergy-logo.png' | relative_url }}" alt="SYNERGY workshop" loading="lazy"></div>
     <div>
-      <span class="ed-badge ed-badge--contributor">Contributor</span>
+      <span class="ed-badge ed-badge--accepted">Accepted</span>
       <h3>Designing and Building Hybrid Human–AI Systems (SYNERGY 2026)</h3>
       <p class="ed-org">Workshop summary · AVI &rsquo;26, Venice · 2026 · <a href="https://doi.org/10.1145/3811427.3811485">DOI →</a></p>
+      <p class="ed-role">Contribution · Contributor, not an author</p>
       <p class="ed-desc">Not listed as an author: contributed the design of the SYNERGY workshop cards and co-led the SYNERGY design workshop at AVI 2026 in Venice.</p>
     </div>
   </div>
@@ -382,6 +384,7 @@ redirect_from:
       <span class="ed-badge ed-badge--pending">Pending</span>
       <h3>Resolving Conflicts in Dyads Through Human-AI Interactions</h3>
       <p class="ed-org">Working title · in preparation</p>
+      <p class="ed-role">Contribution · Contributor</p>
     </div>
   </div>
 </section>
@@ -475,7 +478,11 @@ redirect_from:
   <p class="ed-year">2022</p>
   <div class="ed-service">
     <div class="ed-logo ed-logo--sm"><img src="{{ '/images/logos/23-things.png' | relative_url }}" alt="23 Things International" loading="lazy"></div>
-    <div><h3>23Things International</h3><p class="ed-role">POD Chair</p></div>
+    <div>
+      <h3>23 Things International</h3>
+      <p class="ed-role">POD Chair</p>
+      <p class="ed-desc">As POD Chair for the <a href="https://sarahstein0.wixsite.com/mysite">23 Things International 2025</a> programme, I convened regular discussion sessions supporting the group&rsquo;s engagement with research-skills topics, including: critical and creative thinking, academic and collaborative writing, networking and professional presence on LinkedIn, grant writing, open scholarship, bibliometrics and impact, research communication, AI research applications, culturally competent research, neurodiversity, researcher wellbeing, and career planning.</p>
+    </div>
   </div>
 
   <p class="ed-year">2015 — 17</p>

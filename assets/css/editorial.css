@@ -489,6 +489,14 @@ body.ed-body {
   font-size: 15px;
   margin: 0;
 }
+/* blurb rows inside compact service entries (23 Things International) */
+.ed-service .ed-desc {
+  font-family: var(--sans);
+  font-size: 14px;
+  line-height: 1.55;
+  color: var(--ink);
+  margin: 3px 0 0;
+}
 .ed-logo--sm { min-height: 56px; }
 .ed-logo--sm span { font-size: 7px; }
 @media (max-width: 560px) {
@@ -521,6 +529,10 @@ body.ed-body {
   text-transform: uppercase;
   color: var(--muted);
   margin: 3px 0 0;
+}
+/* inside record cards the role line needs air before the description */
+.ed-card .ed-role {
+  margin: 3px 0 6px;
 }
 .ed-landmark {
   justify-self: end;
